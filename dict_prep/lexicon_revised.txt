@@ -1,0 +1,3720 @@
+_phone_aa_ aa
+_phone_ae_ ae
+_phone_ah_ ah
+_phone_ao_ ao
+_phone_aw_ aw
+_phone_ax_ ax
+_phone_axr_ axr
+_phone_ay_ ay
+_phone_b_ b
+_phone_ch_ ch
+_phone_d_ d
+_phone_dh_ dh
+_phone_dx_ dx
+_phone_eh_ eh
+_phone_ei_ ei
+_phone_er_ er
+_phone_ey_ ey
+_phone_f_ f
+_phone_g_ g
+_phone_hh_ hh
+_phone_ih_ ih
+_phone_ix_ ix
+_phone_iy_ iy
+_phone_jh_ jh
+_phone_k_ k
+_phone_l_ l
+_phone_m_ m
+_phone_n_ n
+_phone_ng_ ng
+_phone_oh_ oh
+_phone_ow_ ow
+_phone_oy_ oy
+_phone_p_ p
+_phone_r_ r
+_phone_s_ s
+_phone_sh_ sh
+_phone_silence_  
+_phone_t_ t
+_phone_th_ th
+_phone_uh_ uh
+_phone_uw_ uw
+_phone_v_ v
+_phone_w_ w
+_phone_y_ y
+_phone_z_ z
+_phone_zh_ zh
+a ah
+a ey
+aalborg aa l b oy g
+ababi ax b aa b iy
+abadi ax b ae d ay
+abaxa ax b aa k s ax
+abaxa ey b ae k s ax
+abaxa aa b ae k s ax
+abeam ax b iy m
+aberu ax b ei r uh
+abgan aa b g aa n
+abgan ae b g ae n
+abgas aa p g aa s
+abgas ae b g ae s
+abgot aa p k oh t
+abgot ae b g oh t
+abgus aa b g uh s
+abgus ae b g ax s
+abisi ax b iy z iy
+abito ax b iy dx ow
+abkis aa b k ix s
+abkis ae b k ix s
+able ey b ah l
+ablom ax b l oh m
+ablom ae b l oh m
+ablox ax b l oh k s
+ablox ae b l oh k s
+about ah b aw t
+above ah b ah v
+abtal ae b t ae l
+abtal aa p t iy l
+abudo ae b uw d ow
+abudo aa b uw d ow
+abuka ah b uh k ax
+abuka ao b uh k ao
+abusi ax b uw z iy
+accept ae k s eh p t
+accept ah k s eh p t
+adams aa dx aa m z
+adams ae dx ax m z
+address ae d r eh s
+address ah d r eh s
+adenu ax d iy n uw
+adiba ax d iy b ax
+adice ae d ih s
+adieu ah d uw
+adilo ax dx iy l ow
+adios aa d iy ow s
+adjacent ah jh ey s ah n t
+adjo OOV_WORD
+adkuv ae d k uw v
+adlet aa d l eh t
+adlet ae d l ix t
+adlir ae d l ix r
+adlir ao t l iy eh
+admos aa d m ow s
+admos ae d m ow s
+admum ao t m uw m
+adosa ax d ow z ax
+adosa ax d ow s ax
+adpup ae d p uh p
+adpup ae t p uw p
+adria aa d r iy ah
+aduki ah dh uh k iy
+aduki aa d uw k iy
+advised ae d v ay z d
+advised ah d v ay z d
+aegean ih jh iy ah n
+aero eh r ow
+aerodienst ei r ow d iy n s t
+aerodrome eh r ah d r ow m
+aeroflot eh r ow f l aa t
+aerolloyd ei r ow l oy d
+aeromaster ei r ow m ae s t axr
+aeropacsa ei r oh p ax k s ax
+aerosvit ei r ow s v ih t
+aerosvit ei r ow s w iy t
+aerovan ei r ax v ae n
+affirm ah f er m
+afriqiyah ae f r ix k iy y aa hh
+afriqiyah ae f r ix k ix y ax
+after ae f t er
+afternoon ae f t er n uw n
+afterwards ae f t er w er d z
+again ah g eh n
+again ah g ey n
+agava ao g aa v ax
+ageni ax g ih n iy
+ageni ax g iy n iy
+ageri OOV_WORD
+agnav aa g n aa f
+agnav aa g n aa v
+agnav ae g n ae v
+agree ah g r iy
+ah aa
+aha aa hh aa
+ahead ax hh eh d
+ahead ay hh eh d
+ahh aa
+ahm OOV_WORD
+ahrensfelde eh r ih n s f eh l d
+air eh r
+airals OOV_WORD
+airbus eh r b ah s
+aircai ei r k ay
+aircairo ei r k ay r ow
+aircalin ei er k ae l ey n
+aircraft eh r k r ae f t
+aircrew ei er k r uw
+airfast ei r f ax s t
+airforce ei r f ao r s
+airfrans ei r f r ae n z
+airfrans ei r f r ae n s
+airfrans ei r f r ao n s
+airisto ei r ih s t ax
+airlanka ei r l aa ng k ax
+airlink eh r l ih ng k
+airmed ei r m eh d
+airmerci ei r m er s iy
+airspace eh r s p ey s
+airspeed eh r s p iy d
+airtas ei r t ae z
+airtours OOV_WORD
+airway eh r w ey
+airways eh r w ey z
+akabi ax k aa b iy
+akanu ah k aa n ow
+akanu ah k aa n uw
+akanu axr k ah ng ow
+akaso ax k aa z ow
+akaso ax k aa s ow
+akeva ax k iy v ax
+akeva ax k ey v ax
+akima ax k iy m ax
+akima aa k iy m ax
+akini ax k iy n iy
+akoni ax k ow n iy
+akoni ax k oh n iy
+akosi aa k ow z iy
+akosi ax k ow s iy
+akudi ax k uw dx iy
+al ae l
+alago ax l aa g ow
+alami aa l aa m iy
+alami ay l aa m iy
+alaxa ax l eh k s ax
+alaxa ax l aa k s ax
+albet aa l b eh t
+albet ae l b eh t
+albix OOV_WORD
+alese ax l ey z ey
+alese ax l iy z
+alfa ae l f ah
+algerie aa l jh er iy
+algerie ae l jh er iy
+alibu aa l iy b uh
+alibu ae l iy b uh
+alibu axr l iy b uw
+alila ax l iy l ax
+aliparma aa l iy p aa r m ax
+aliri aa l iy r iy
+alitalia ae l ih t ey l iy ah
+alitalia ae l ih t ae l iy ah
+all ao l
+allersberg aa l er z b er g
+allersberg aa l er s b er g
+allgaeu aa l g oy
+allowed ah l aw d
+alma ae l m ah
+alma ao l m ah
+almost ao l m ow s t
+alonu ax l ow n uw
+alopo ax l ow p ow
+aloso ax l ow z ow
+aloso ax l ow s ow
+alpa ae l p ah
+alpha ae l f ah
+alpi ax l p ih
+already ao l r eh d iy
+already ao r eh d iy
+alright ao l r ay t
+alsie aa l z iy
+also ao l s ow
+altenburg aa l t ax n b ao r g
+altenburg ae l t ax n b axr g
+altitude ae l t ah t uw d
+altos ae l t ow z
+altos ao l t ow s
+aluka ax l uw k ax
+aluka aa l uw k aa
+amadi ax m aa dx iy
+amasi ax m ax z iy
+ambulance ae m b y ah l ah n s
+amdid aa m d ix d
+amdid ae m d ix d
+ameis ax m ey s
+amemi aa m iy m iy
+amemi ax m ey m iy
+amendment ah m eh n d m ah n t
+amerer ae m ax r axr
+amexo ax m eh k s ow
+amgas aa m g aa s
+amgas ae m g ae s
+amiki ax m iy k iy
+amosa aa m ow z ax
+amosa ax m ow s ax
+ampeg aa m p eh g
+ampeg ae m p eh g
+amtek ae m t eh k
+an ae n
+an ah n
+ancona ae n k ow n ax
+and ah n d
+and ae n d
+andec aa n d eh k
+andec ae n d eh k
+anebo ae n iy b uw
+anela ay n ey l aa
+anela aa n iy l ax
+anibi aa n iy b iy
+anibi ax n ih b iy
+anker aa ng k axr
+anker ae ng k axr
+another ah n ah dh er
+ansbach aa n s b aa k
+antonov ae n t ax n ax v
+any eh n iy
+anyhow eh n iy hh aw
+aosta OOV_WORD
+approach ah p r ow ch
+approval ah p r uw v ah l
+approved ah p r uw v d
+approximately ah p r aa k s ah m ah t l iy
+arbax ae r b aa k s
+arbax aa r b aa k s
+arber aa r b axr
+arbie aa r b iy
+arbir aw r b iy r
+arbir aw r b ei r
+arbos OOV_WORD
+arcky aa r k iy
+arcus aa r k uh s
+are aa r
+are er
+area eh r iy ah
+argad aa r g ae d
+arkefly aa r k ae f l ay
+arkia aa r k iy ax
+arkok aa r k oh k
+armavia aa r m aa v iy ax
+armut aa r m uw t
+armut aa r m ax t
+army aa r m iy
+arnix aa r n ix k s
+arnos aa r n oh s
+around er aw n d
+around er aw n
+arpe aa r p ax
+arpeg aa p ih g
+arpeg ao p ix g
+arpot aa r p oh t
+arrival er ay v ah l
+arrivederci OOV_WORD
+arsap aa s aa p
+arsap aa s ah p
+arsap aa r s ax p
+arsut aa r s uh t
+arsut aa r s ax t
+artip aa r t ih p
+artip aa r t ix p
+artus aa r t uh s
+artus aa r t ax s
+as ae z
+as eh z
+asbag aa s b aa g
+asbag ae z b ae g
+ascot ae s k aa t
+asiana ey zh iy aa n ax
+ask ae s k
+askik aa s k ix k
+askik ae s k ix k
+aspat aa s p aa t
+aspat ae s p ax t
+assigned ah s ay n d
+astanaline ax s t ae n ax l ay n
+asterix ae s t ax r ix k s
+astut aa s t uh t
+astut ae s t ax t
+asvey ae z v iy
+at ae t
+atc ey t iy s iy
+atgup ae t g uw p
+atgup ae t k uw p
+atila aa t iy l aa
+atlasjet ae t l ax s jh eh t
+atped OOV_WORD
+atrig aa t r ix g
+atrig ae t r ix g
+au ow
+auersberg aw axr z b axr g
+auf OOV_WORD
+augsburg aw k s b ao r g
+augsburg ao g z b axr g
+augusta ah g ah s t ah
+ausair aa s ey r
+auscal ao s k ae l
+ausjet s zh ix t
+austasia s t ax s iy ax
+austin ao s t ah n
+austrian aa s t r iy ax n
+austrian ao s t r iy ax n
+austrian ah s t r iy ax n
+austrian ow s t r iy ax n
+auto ao t ow
+available ah v ey l ah b ah l
+avanti ah v aa n t iy
+avavia aa v aa v iy ax
+avioimpex ae v iy ow ih m p eh k s
+avitrans aa v iy t r ae n z
+awhile ah w ay l
+axeman ae k s m ax n
+ayit ay iy t
+azal aa z aa l
+azarbaijan ax z iy r b ay jh oh n
+babav b aa b aa v
+babeg b aa b eh g
+babeg b ae b eh g
+babit b aa b ix t
+babit b ae b ix t
+baboo b ax b uw
+back b ae k
+baden b aa d ax n
+baden-baden b aa d ax n b aa d ax n
+badit b aa dx ix t
+badit b ae dx ix t
+badug b aa dx uh g
+badug b ae dx ax g
+badvi b aa d v iy
+badvi b ae d v iy
+badvi b ae d v ih
+badvi b ae d v ix
+badvi b aa t v iy
+bafair OOV_WORD
+bagmi b aa g m iy
+bagru b aa g r uw
+bagru b ae g r uw
+bagsi b aa g s iy
+bagsi b ae g s iy
+bair b eh r
+bakli b aa k l iy
+bakol b aa k ow l
+bakol b ey k oh l
+bakor b aa k ao r
+bakor b ey k ao r
+balkan b ao l k ah n
+balos b aa l oh s
+baltic b ao l t ih k
+balus b ax l ah s
+bamas b aa m aa s
+bamas b ae m ax s
+bamki b aa m k iy
+bamta b aa m t ao
+bamto b aa m t ow
+bamto b ae m t ow
+bamur b aa m uh r
+bamur b ae m axr
+banik b aa n iy k
+banik b aa n ix k
+banim b aa n ix m
+banim b ae n ix m
+banub b aa n uh b
+bar b aa r
+barap b aa r ax p
+barap b ei r ax p
+barix b aa r ih k s
+barix b aa r ix k s
+barmen b aa r m ax n
+barob b aa r ax b
+barob b ei r ax b
+barox b aa r oh k s
+barox b ei r ax k s
+barsu b aa r z uw
+barsu b aa r s uw
+barth b aa r t
+barth b aa r th
+baseleg b ey s l eh g
+basle b aa z ax l
+basle-mulhouse b aa z ax l m uh l hh aw z ax n
+batel b oh t eh l
+batel b aa t eh l
+batga b aa t g ax
+batga b ae t g ax
+batix b aa t ix k s
+batix b ae t ix k s
+batty b aa dx iy
+batty b ae dx iy
+batty b ah t iy
+bautzen b aw t s ax n
+bavarian b ah v eh r iy ah n
+bavax b aa v aa k s
+bavax b ae v ax k s
+bavin b aa v iy n
+bavin b ae v ix n
+bayreuth b ay r oy t
+bayreuth b ey r ax th
+be b iy
+be b iy
+beauty b y uw dx iy
+beauty b y uw t iy
+bebex b ey b eh k s
+bebex b eh b eh k s
+bebku b eh b k uw
+bebla b iy b l ax
+bebla b eh b l ax
+because b ih k ao z
+because b ih k ah z
+because b ih k aa z
+because b ih k ah z
+bechi b eh ch iy
+become b ih k ah m
+bedds b eh d z
+bedek b eh d ix k
+bedos b ae dx oh s
+bedos b ey dx ow s
+bee b iy
+beeline OOV_WORD
+been b ih n
+been b ah n
+been b ih n
+before b ih f ao r
+before b iy f ao r
+begen b iy g ix n
+begen b eh g ax n
+begen b eh jh ax n
+behind b ih hh ay n d
+being b iy ih ng
+belavia b eh l aa v iy ax
+belgian b eh l jh ah n
+belid b eh l ix d
+bell b eh l
+belle b eh l
+below b ih l ow
+below b iy l ow
+belstar OOV_WORD
+bemix b iy m ix k s
+bemix b eh m ix k s
+bemki b eh m k iy
+bennn b eh n
+benot b iy n oh t
+benot b eh n oh t
+bentlage b eh n t l aa g ax
+bepas b iy p aa s
+bepas b eh p ax s
+beras b ei r ax s
+berdi b ei r d iy
+berdi b iy r d iy
+berlin b eh r l iy n
+berlin b axr l ih n
+berlin-schonefeld b eh r l iy n sh uh n ax f eh l t
+berlin-schonefeld b axr l ih n sh er n f eh l d
+berlin-tegel b eh r l iy n t iy g ax l
+berlin-tegel b axr l ih n t eh g ax l
+berlin-tempelhof b eh r l iy n t eh m p ax l hh ao f
+berlin-tempelhof b axr l ih n t eh m p ax l hh ao f
+berman b er m ah n
+bern b eh r n
+bern b er n
+besip b ey s ix p
+besip b iy s ih p
+besko b eh s k ow
+besni b eh z n iy
+best b eh s t
+betag b iy dx aa g
+betag b eh dx ae g
+betko b eh t k ow
+betos b iy t oh s
+betos b ey dx ow z
+betos b eh t ow z
+betos b eh t ow s
+betos b eh t oh s
+better b eh t axr
+better b eh dx axr
+bibag b iy b aa k
+bibag b iy b ah k
+bibag b iy b ae g
+bibeg b iy b eh g
+bibeg b ay b eh g
+big b ih g
+bigge b ih g ax
+bigwy b ih g w ay
+bikbi b ih k b iy
+bikru b ih k r uw
+bildu b ih l d uw
+bilmu b ih l m uw
+bilsa OOV_WORD
+bimpa b iy m p ao
+binair b ih n ei r
+bingu b ih ng g uw
+bingu b ih n g uw
+binka b ih ng k ax
+biram OOV_WORD
+bird b er d
+birgi b iy r g iy
+birgi b er g iy
+birka b iy r k ax
+birka b er k ax
+bit b ih t
+bitbu b iy t b uw
+bixel b ih k s ax l
+bizair b ih z ei r
+blnap b eh l n ae p
+blocked b l aa k t
+blue b l uw
+bluefin OOV_WORD
+bluewings b l uw w ix ng z
+bmw b iy eh m d ah b ax l y uw
+bmw b1 b2 m1 m2 d ah b ax l y uw
+bodal b ow dx aa l
+bodal b ow dx ax l
+bodan b ow dx ax n
+bodla b oh d l aa
+bodla b oh t l aa
+bokni b oh k n iy
+bokni b ow k n iy
+bokso b oh k s ow
+boksu b oh k s uw
+bolbo b oh l b ow
+bologna b ax l ow n y ax
+bologna b ax l ow n iy
+bolsena b oh l z iy n ax
+bolsena b ow l s ey n ax
+bolsi b aa l z iy
+bolsi b ow l s iy
+bolzano b ow l t s aa n ow
+bolzano b ow l z aa n ow
+bombi b oh m b iy
+bonjour b ah n zh uh r
+bonn b ao n
+bonn b oh n
+borep b ao r ax p
+borep b uh r eh p
+borep b uw r eh b
+bosna b oh s n ax
+bosnia b aa z n iy ah
+bosox b ow s oh k s
+boston b ao s t ax n
+boston b ao s t ix n
+boston b ao s ax n
+both b ow th
+bottrop b oh t r oh p
+bourak b ao r ae k
+braathens b r aa th ix n z
+brane b r ey n
+braun b r aa uw n
+braunschweig b r aw n sh v ay g
+braunschweig b r aw n sh w ay g
+bravo b r aa v ow
+break b r ey k
+breman OOV_WORD
+bremen b r iy m ax n
+bremen b r eh m ax n
+bremen b r ey m eh n
+bremen b r ey m ax n
+breno b r iy n ow
+breno b r eh n ow
+brindabella b r ih n d ax b eh l ax
+brinkendorf b r ih ng k eh n d ao r f
+brinkendorf b r ih ng k ax n d ao r f
+britair b r ih dx ei r
+britair b r ih t ei r
+britania OOV_WORD
+britannia b r ih t ae n iy ah
+british b r ih t ih sh
+brocken b r oh k ax n
+bruenkendorf b r uh ng k eh n d ao r f
+bruenkendorf b r uh ng k ax n d ao r f
+bruenkendorf b r ih ng k eh n d ao r f
+bruessel b r ah s ax l
+brunkendorf b r uh ng k ax n d ao r f
+brussels b r aa s ax l s
+brussels b r aa s ax l
+brussels b r ax s ax l
+buchel b uw hh eh l
+buchel b uw ch ax l
+buckeburg b uh k ax b uh r g
+buckeburg b ah k ax b axr g
+budex b uw d eh k s
+buerau b y uw r aw
+bukig b uw k ix g
+bukig b y uw k ix g
+bulek b uw l eh k
+bulek b y uw l eh k
+bulem b uw l ax m
+bulem b y uw l ax m
+bulgaria b ah l g eh r iy ah
+bulgarian b ah l g eh r iy ah n
+bull b uh l
+bumil b uw m iy l
+bumil b uw m ix l
+bumil b uh m ei l
+buongiorno OOV_WORD
+buram b uw r aa m
+burdy b er d iy
+burdy b axr d iy
+bureg b uw r eh g
+bureg b y uh r eh g
+burel b uh r eh l
+burel b y uh r ax l
+burok b uh r oh k
+burok b y uh r oh k
+busch b uh sh
+busir b uw z iy r
+busir b uw s axr
+but b ah t
+by b ay
+bye b ay
+c s iy
+cab k ae b
+cactus k ae k t ah s
+cair k ei r
+calibrator k ae l ix b r ey dx axr
+call k ao l
+called k ao l d
+calling k ao l ih ng
+callsign k ae l s ay n
+calm k aa m
+calm k aa l m
+camber k ae m b axr
+can k ae n
+can k ah n
+can't k ae n t
+canada k ae n ah d ah
+cancel k ae n s ah l
+cancelled k ae n s ah l d
+cancelling k ae n s ah l ih ng
+cancelling k ae n s l ih ng
+canforce k ae n f ao r s
+canne OOV_WORD
+car k aa r
+cargo k aa r g ow
+cargolux k aa r g ow l ah k s
+carolus k eh r ah l ah s
+carpat k aa r p aa t
+carpatair k aa r p aa t ei r
+carton k aa r t ah n
+case k ey s
+cedar s iy dx axr
+cedarjet s iy dx axr jh eh t
+celle s eh l ey
+celle s eh l
+centennial s eh n t eh n iy ah l
+center s eh n t er
+center s eh n er
+cerno ch eh r n ow
+cerno s er n ow
+chalenge ch ae l ax n jh
+chance ch ae n s
+change ch ey n jh
+channex ch ae n ae k s
+charlie ch aa r l iy
+charter ch aa r t er
+cheb sh eh b
+check ch eh k
+checked ch eh k t
+ciao ch aw
+cimber ch iy m b axr
+cimber k iy m b axr
+cinky s ih ng k iy
+city s ih t iy
+civil s ih v ah l
+clean k l iy n
+clear k l ih r
+clearance k l ih r ah n s
+cleared k l iy r d
+cleared k l iy eh d
+clickjet k l ih k jh eh t
+climb k l ay m
+climbing k l ay m ih ng
+cloud k l aw d
+clouds k l aw d z
+coastwatch k ow s t w ao ch
+cochstedt k aa ch s t eh d
+codan k ao d aa n
+codan k ao dx ah ng
+code k ow d
+cohas k ow hh ae s
+cola k ow l ax
+coleman k ow l m ax n
+com k aa m
+come k ah m
+coming k ah m ih ng
+commence k ah m eh n s
+computer k ah m p y uw t er
+conditions k ah n d ih sh ah n z
+condor k aa n d er
+confirm k ah n f er m
+confirmation k aa n f er m ey sh ah n
+confirmed k ah n f er m d
+constellation k aa n s t ah l ey sh ah n
+contact k aa n t ae k t
+contacted k aa n t ae k t ih d
+continental k aa n t ah n eh n t ah l
+continental k aa n t ah n eh n ah l
+continue k ah n t ih n y uw
+contract k aa n t r ae k t
+contract k ah n t r ae k t
+control k ah n t r ow l
+convenience k ah n v iy n y ah n s
+converging k ah n v er jh ih ng
+cooperation k ow aa p er ey sh ah n
+cooperation k w aa p er ey sh ah n
+cooperation k w ao p er ey sh ah n
+coordination k ow ao r d ah n ey sh ah n
+copied k aa p iy d
+copy k aa p iy
+corendon k ao r iy n d ax n
+corna k ao r n ah
+correct k er eh k t
+correction k er eh k sh ah n
+corsair k ao r s eh r
+costa k ao s t ax
+costa k oh s t ax
+costa k ao s t ah
+costa k oh s t ah ax
+cotam k ow t aa m
+cottbus k aa t b ah s
+could k uh d
+course k ao r s
+croatia k r ow ey sh ax
+croatia k r oy ei sh ax
+croatia k r oy ax sh ax
+croatian k r ow ey sh ah n
+cross k r ao s
+crossair k r ao s ei r
+crossing k r ao s ih ng
+cruise k r uw z
+cruising k r uw z ih ng
+csa s iy eh s ey
+cubana k uw b aa n ax
+cugat k uw g ae t
+curli k er l iy
+current k er ah n t
+current k er n t
+current k aa r ah n t
+cut k ah t
+cutel k uw t ei l
+cyprus s ay p r ah s
+czech ch eh k
+czempin y ow
+czempin t sh eh m p iy n
+d.m.e. d iy eh m iy
+dabon d ah b ow n
+dag d ae g
+dagobert d ae g ow b er t
+danke OOV_WORD
+darwin d aa r w ih n
+dasa d aa s aa
+day d ey
+decimal d eh s ix m ax l
+decimal d eh s m ax l
+decrease d ih k r iy s
+decrease d iy k r iy s
+dedub d iy d ah b
+definitely d eh f ah n ah t l iy
+degab d iy g ax b
+degab d iy g ae b
+deges d iy g ax s
+degin d iy g ax n
+degin d eh g ix n
+degrees d ih g r iy z
+deister d ay s t axr
+dekov d iy k ao f
+dekov d eh k ao v
+delta d eh l t ah
+demab d iy m aa b
+demab d eh m ae b
+demab d iy m ae b
+dened d iy n eh d
+dened d eh n ix d
+denel d iy n eh l
+denel d eh n ax l
+denol d eh n ow l
+denol d eh n ax l
+denol d eh n oh l
+denol d iy n uw l
+denta OOV_WORD
+denut d iy n ax t
+denut d eh n ax t
+denut d iy n aa t
+denut d ey n ax t
+departure d ih p aa r ch er
+depin d iy p ix n
+depin d eh p ix n
+desan d iy z aa n
+desan d eh s ax n
+desar d iy z aa r
+desar d eh s axr
+descend d ih s eh n d
+descending d ih s eh n d ih ng
+descent d ih s eh n t
+deslo d eh s l ow
+destination d eh s t ah n ey sh ah n
+destination d eh s t ih n ey sh ah n
+details d ih t ey l z
+details d iy t ey l z
+detev d iy t eh v
+detev d eh t eh v
+detex d iy t eh k s
+detni d eh t n iy
+detob d iy t oh b
+detob d iy t ao p
+detsa d eh t s ax
+detum d iy dx uh m
+dew d uw
+dewpoint d uw p oy n t
+dibax d iy b aa k s
+dibax d ay b ae k s
+dibed d iy b eh d
+dibed d ay b eh d
+did d ih d
+did d ih d
+didum d iy d uh m
+didum d ay d ax m
+diekirch d iy k er g
+diekirch d iy k uh g
+diekirch d iy k er ch
+diekirch d iy k er k
+diepholz d iy p hh ow l t s
+dijon d iy zh aa n
+dijon d iy zh ow n
+dikva d ix k v ax
+dikva d ix k f ax
+dilex d iy l eh k s
+dilex d ay l eh k s
+dimlo d ih m l ow
+dimsu d ih m z uw
+dimsu d ih m s uw
+dindelsbuehl OOV_WORD
+dinkelsbuehl d ix ng k ax l s b uw l
+dinkelsbuehl d ix ng k ax l s b uh l
+dinkelsbuhl d ix ng k ax l s b uw l
+dinkelsbuhl d ix ng k ax l s b uh l
+dinklesberg OOV_WORD
+dinku d ih ng k uw
+dinku d ih n k uw
+dinog d iy n oh g
+dinog d ih n oh g
+direct d ay r eh k t
+direct d axr eh k t
+direct d ix r eh k t
+direct d ay r eh k
+direct dh er eh k t
+direction d er eh k sh ah n
+direction d iy r eh k sh ih n
+direction d ay r eh k sh ih n
+direction d ih r eh k sh ih n
+disregard d ih s r ih g aa r d
+distance d ih s t ah n s
+disun d iy z uh n
+disun d ay s ax n
+ditam d iy t ah m
+dival d iy v aa l
+dival d ix v aa l
+dixi d ih k s iy
+dme d iy eh m iy
+do d uw
+doben d ow b ax n
+dobur d ow b axr
+dodas d ow d ax s
+dodil d ow d iy l
+dodil d ow d ix l
+dodne d oh d n iy
+does d ah z
+does d ih z
+dokel d ow k eh l
+dolit d ow l ix t
+dolomiti d ow l ax m iy t iy
+dolomiti d ow l ax m ix dx iy
+dolsko d ow l s k ow
+domal d ow m aa l
+domal d ow m ax l
+don't d ow n t
+don't d ow n
+donab dh oy ng aw b
+donab d ow n aa b
+donad d ow n aa d
+donad d ow n ae d
+donau d ow n aw
+donau d oh n aw
+donaueschingen d ow n aw eh sh ix ng ax n
+donavia d ao n aa v iy aa
+donix d ow n ix k s
+donix d oh n ix k s
+dopov d ow p oh v
+dorap d ao r ae p
+dornier d ao r n iy ey
+dornier d ao r n iy ei r
+dornier d ao r n iy ix
+dortmund d ao r t m uh n d
+dortmund-wickede d ao r t m uh n d v ih k ix dx ax
+dosel OOV_WORD
+dosis d ow z ix z
+dosis d ow s ix s
+dotak d ow t aa k
+dotak d ow dx ae k
+down d aw n
+dream d r iy m
+dreem d r iy m
+dresden d r eh z d ax n
+dresden d r iy s d ax n
+dresden d r iy z d ax n
+drewitz d r uw ix t s
+drop d r oh p
+drop d r ao p
+du d uw
+du d ah
+dubrovnik d uh b r oh v n ix k
+dubrovnikair d uh b r oh v n ix k ei r
+due d uw
+due d y uw
+duesseldorf d uh s ax l d ao r f
+duesseldorf d uw s ax l d ao r f
+duke d uw k
+dusseldorf d uh s ax l d ao r f
+dusseldorf d uw s ax l d ao r f
+dynasty d ay n ax s t iy
+e iy
+earlier er l iy er
+east iy s t
+eastn iy s t ax n
+eastwest iy s t w eh s t
+easy iy z iy
+ebasa iy b aa z ax
+ebasa ix b aa s ax
+ebatu iy b aa dx uw
+ebeda iy b iy dx ax
+ebeda ix b ey dx ax
+ebeda eh b ey dx ax
+ebesi iy b iy z iy
+ebesi ix b eh z iy
+ebevo eh b ey v ow
+eccho eh k ow
+echo eh k ow
+edega iy d ix g aa
+edega iy dx iy g aa
+edeli iy dx iy l iy
+edelweiss ey d ah l v ay s
+edimo iy d iy m ow
+edimo ix d iy m ow
+edisa iy d iy z ax
+edosa OOV_WORD
+edudu iy d uw dx uw
+eelde iy l d ey
+egaka iy g aa k ax
+egelsbach iy g ax l z b aa k
+eggebek eh g ax b eh k
+eggenfelden eh g ax n f eh l d ax n
+eggenfelden eh jh ax n f l d ax n
+egypt iy jh ah p t
+egypt iy jh ih p t
+egyptair iy jh ix p t ei r
+eh eh
+eifel ay f ax l
+eight ey t
+eights ey t s
+eighty ey t iy
+eirro iy r ow
+either iy dh er
+either ay dh er
+eklem eh k l ax m
+eklen eh k l ax n
+eknur eh k n ao r
+ekpek eh k p eh k
+ekput eh k p uh t
+eksak eh k s aa k
+eksak eh k s ae k
+eksek eh k s eh k
+eksos eh k s oh s
+el eh l
+elal eh l ae l
+elal eh l aa l
+elbe eh l b ey
+elbe eh l b
+elbe eh l b ei
+eleven ih l eh v ah n
+eleven iy l eh v ah n
+eliry eh l axr iy
+elitavia ax l iy t ey v iy ax
+elkat eh l k aa t
+elkat eh l k ae t
+elmek eh l m eh k
+elmem eh l m eh m
+elmid eh l m ix d
+elmid eh l m ix t
+elmid eh l m ih t
+elmid ae l m ix t
+elmid ae l m ih t
+elmox eh l m aa k s
+elmug eh l m uh g
+elmug eh l m ax g
+elnat eh l n aa t
+elnat eh l n ae t
+elpon eh l p oh n
+elsal eh l z aa l
+elsal eh l s ax l
+elted eh l t eh d
+elted eh l t ix d
+elvag eh l v aa g
+elvag eh l v ax g
+elvix eh l v ix k s
+embox eh m b oh k s
+embraer eh m b r ei r
+emden eh m d ax n
+emgod eh m g oh d
+emirates eh m er ah t s
+emirates eh m er ey t s
+emkil eh m k ix l
+emkir eh m k iy r
+enable eh n ey b ah l
+enable ih n ey b ah l
+end eh n d
+engle eh ng g ax l
+enita ey n iy t aa
+enita ix n iy th aa
+enobi ey ng ow b iy
+enobi ae n ow b ix
+enoro eh n ao r ow
+enoro ax n ao r ow
+enter eh n t er
+enter eh n er
+enterair eh n dx axr ei r
+entering eh n t er ih ng
+entering eh n er ih ng
+epila ey p iy l ax
+epila eh p ih l ax
+epinal eh p ix n aa l
+epino aa p iy n ow
+epino eh p iy n ow
+eplatures p l ax t uh r
+equipped ih k w ih p t
+er er
+erani ix r aa n iy
+erasu eh r aa z uw
+erasu eh r aa s uw
+erding eh r d ix ng
+erding er d ix ng
+erdok eh r d oh k
+erdok er d oh k
+ereto ey r ey t ow
+erfurt eh r f ao r t
+erfurt er f axr t
+ergon ei r g oh ng
+ergon er r g oh ng
+erkir eh r k iy r
+erkir er k iy r
+erlangen eh r l aa ng ax n
+erlangen er l ae ng ax n
+erlangen eh r l aa ng g ix n
+ermel eh r m eh l
+ermel er m ax l
+ermut eh r m uh th
+ernas eh r n aa s
+ernas er n ax s
+ersam OOV_WORD
+erset eh r z eh t
+erset er s eh t
+ersil er s iy l
+ersil aw z iy l
+ersil ei z iy l
+ertes eh r t eh z
+ertes er dx eh s
+ertul eh r t uw l
+ertul er dx ax l
+esama ey z aa m ax
+esati ey z aa dx iy
+esati ix s aa dx iy
+esega ey z ey g ax
+esega eh z eh g ax
+esegu ey s iy g uw
+esegu ax s eh g uw
+esemi ey z ey m iy
+esemi eh s ey m iy
+esika ey z iy k ax
+esika ix s iy k ax
+esiso ey z iy z ow
+esiso eh s ih s ow
+eslor eh s l ao r
+esobu ey z ow b uw
+esobu ix s ow b uw
+established ih s t ae b l ih sh t
+established iy s t ae b l ih sh t
+establishing ih s t ae b l ih sh ih ng
+establishing iy s t ae b l ih sh ih ng
+estail eh s t ey l
+esuli ey z uw l iy
+esuli ix s uw l iy
+etago iy th aa g uw
+etaru aa t aa r uw
+etasa iy t aa s ax
+etasa ix t ae s ax
+etatu iy t aa t uw
+etatu ix t ae dx uw
+etesi ey t ey z iy
+etesi eh t eh s iy
+ethiad eh th iy ae d
+ethiopian iy th iy ow p iy ax n
+ethiopian eh th iy ow p iy ax n
+ethiopian eh t iy ow p iy ax n
+etihad eh t iy hh ae d
+etima ey t iy m ax
+etima eh t ay m ax
+etipo ey t iy p ow
+etipo ix t ay p ow
+etnor ey th n ao r
+etnor eh t n oy r
+etolu iy t ow l uw
+etoxu iy t oh k s uw
+etvis eh t v ix s
+eurach oy r aa k
+eurach ey uh r ax k
+euro y uw r ow
+euro y uh r ow
+euro y uh r ah
+eurocat y uw r ow k ae t
+eurocypria y uw r ow s ih p r iy ax
+europa y uh r ow p ah
+europe y uh r ah p
+eurosky y uw r ow s k ay
+eurotrans y er ow t r ae n z
+eurowings y er ow w ih ng z
+eva ey v ah
+eva iy v ah
+evemi iy v iy m iy
+even iy v ih n
+evening iy v n ih ng
+everflight eh v axr f l ay t
+eviva ey v iy v ax
+eviva ix v iy v ax
+eviva eh v iy v ax
+exact ih g z ae k t
+exactly ih g z ae k t l iy
+executive ih g z eh k y ah t ih v
+exercise eh k s er s ay z
+exin eh k s ix n
+exiti eh k s iy dx iy
+exiti eh k s ay dx iy
+exoba ix k s ow b ax
+expect ih k s p eh k t
+expedite eh k s p ih d ay t
+expeditious eh k s p ah d ih sh ah s
+expeditiously eh k s p ah d ih sh ah s l iy
+expert eh k s p er t
+express ih k s p r eh s
+exusi ey k s uh s iy
+faids f ey d z
+falza f ae l z ow
+familiar f ah m ih l y er
+farnar f aa r n axr
+fassberg f aa s b eh r g
+fassberg f ae s b axr g
+fast f ae s t
+faster f ae s t er
+fedex f eh d eh k s
+feet f iy t
+feilong f iy l ao ng
+ferrara f eh r aa r ax
+field f iy l d
+fifteen f ih f t iy n
+fifteen f ih f t iy n
+fifty f ih f t iy
+filach f ih l aa k
+filach f ih l ax k
+filach f ih l ae ch
+finair f ih n ei r
+final f ay n ah l
+fine f ay n
+finish f ih n ih sh
+finished f ih n ih sh t
+finn f ih n
+finnair f ih n eh r
+finow f ih n ow
+firenze f ix r eh n s ey
+firenze f ix r eh n z iy
+firespotter f ay axr s p oh dx axr
+first f er s t
+fischamend f ih sh ax m eh n d
+five f ay v
+fiver OOV_WORD
+fix f ih k s
+flensburg f l eh n s b er g
+flensburg f l eh n s b uh r g
+flesland f l ix s l ax n d
+flight f l ay t
+fly f l ay
+flyhello f l ay hh eh l ow
+flying f l ay ih ng
+flystar f l ay s t aa r
+fokker f aa k er
+follow f aa l ow
+for f ao r
+for f er
+for f r er
+force f ao r s
+forty f ao r t iy
+four f ao r
+fox f aa k s
+foxair f oh k s ei r
+foxtrot f aa k s t r aa t
+fraction f r ae k sh ah n
+france f r ae n s
+frank f r ae ng k
+frank f r aa ng k
+frankfurt f r aa ng k f uh r t
+frankfurt f r ae ng k f axr t
+freebird f r iy b er d
+freistadt f r ay sh t aa t
+french f r eh n ch
+freq OOV_WORD
+frequency f r iy k w ah n s iy
+fribourg f r iy b ao r g
+fribourg f r ay b axr g
+friedland f r iy d l aa n d
+friedland f r iy d l ax n d
+friedrichshafen f r iy d r ix k s hh aa f ax n
+fritzlar f r ih t s l aa r
+fritzlar f r ix t s l aa r
+fritzlar f r ix t z l aa r
+fritzlar f r ix t z l ax r
+fritzlar f r ih t z l ax r
+fritzlar f r ih t z l aa r
+from f r ah m
+from f er m
+front f r ah n t
+frost f r oh s t
+frost f r ao s t
+frydlant f r iy d l aa n d
+fuerstenwalde f r ax s t l oh dx ow
+fuerstenwalde f axr s t ix n w aa l d ix
+fulda f uh l d ax
+fulda f uh l d axr
+fulda f aa l d axr
+full f uh l
+fully f uh l iy
+fulno f uh l n ow
+fun f ah n
+furstenwalde f r ax s t l oh dx ow
+furstenwalde f axr s t ix n w aa l d ix
+further f er dh er
+fusse OOV_WORD
+futura f uw t ao r ax
+g jh iy
+gaass g ae s
+galma g aa l m ax
+galma g ae l m ax
+galvi g aa l v iy
+gambi OOV_WORD
+gamko g ah m k ow
+gamli g aa m l iy
+gapla g aa p l ax
+gapto g aa p t ow
+gapto g ae p t ow
+garbage g aa r b ih jh
+gargu g aa r g uw
+garki g aa r k iy
+garlu g aw r l ow
+garlu g ah l ow
+garlu g aw l ow
+garmo g aa r m ow
+gaska g aa s k ax
+gatari g ae t ax r iy
+gate g ey t
+gave g ey v
+gavli g aa v l iy
+gavli g ae v l iy
+gbas g iy b ae s
+gebersheim g eh b axr s hh ay m
+gebno g eh b n ow
+gedern g iy d axr n
+gedern g ey d aa r n
+gedsi g eh d s iy
+geilenkirchen g ay l ax n k iy r hh ax n
+gelba g eh l b aa
+geneva jh ax n iy v ax
+geneva g eh n iy v ax
+georgia jh ao r jh ah
+gerdo g eh r d ow
+gerdo g er d ow
+gerga g eh r g ax
+gerga g er g ax
+german jh er m ah n
+germania g er m aa n iy ax
+germania jh axr m ey n iy ax
+germinghausen g eh r m ix ng hh aw z ax n
+germinghausen jh er m ix n hh aw z ax n
+geska g eh s k ax
+gesto OOV_WORD
+get g eh t
+get g ih t
+getting g eh t ih ng
+getting g ih t ih ng
+gevta g ih f th aa
+gevta g ih v th ao
+ghibli g iy b l ix
+gibair OOV_WORD
+gibsa g ih b s ax
+giebelstadt g iy b ix l sh t aa t
+giebelstadt jh iy b eh l sh t ae t
+giebelstadt jh iy b eh l s t ae t
+giessen g iy z s ax n
+giget g iy g eh t
+giggi jh ih jh iy
+giggi g ih g iy
+gigub g iy g uh b
+gigub g ih g ax b
+gilas g iy l ah s
+gilin g ih l ix n
+gimax g iy m aa k s
+gimax g ih m ae k s
+gimbo g ih m b ow
+giris g iy r ix s
+gisat g iy z aa t
+gisem g iy z ax m
+give g ih v
+given g ih v ah n
+given g ih v ih n
+givmi g ih v m iy
+gland g l aa n t
+gleichenberg g l ay k ax n b eh r g
+gleichenberg g l ay k ax n b axr g
+glide g l ay d
+glideslope g l ay d s l ow p
+gluckstadt g l uh k sh t aa t
+glyde g l ay d
+gnss g iy eh n eh s eh s
+go g ow
+gobax g ow b aa k s
+gobax g ow b ae k s
+godur g ow d axr
+gogem g ow g eh m
+gogem g ow jh ax m
+going g ow ih ng
+going g ow ih n
+gokar g ao k aa r
+gokar g ow k axr
+golat g ow l aa t
+golat g ow l oh t
+golbo g oy l b oy
+golbo g ow l b oy
+gold g ow l d
+goldeck g ow l d eh k
+golf g aa l f
+golf g ao l f
+golop g ow l oh p
+gomax g ow m ae k s
+gomed g ow m eh d
+gompa g ow m p aa
+gompa g oh m p ax
+gonba g ow n b aa
+gonba g oh n b ax
+gone g ao n
+good g uh d
+good g ih d
+goodbye g uh d b ay
+gopsi g oh p s iy
+gorat g ao r ax t
+gorig g ao r iy g
+gorig g uw r iy g
+gorig g ow r iy g
+gorig g uh r ix g
+gorko g ao r k ow
+gorla g ao r l ax
+gorlo g ao r l ow
+gorlo g ao r l ao
+gorpi g ao r p iy
+gosek g ow s eh k
+gosheim g ow s ay m
+gosheim g ow sh ay m
+got g aa t
+gotar g ow t aa r
+gotem g ow dx eh m
+gotem g ow dx ax m
+gotil OOV_WORD
+gott g aa t
+goven g ow v ax n
+gps jh iy p iy eh s
+grafe g r ao f ax
+grafenwohr g r aa f ax n v axr
+gratz g r ae t s
+graz g r aa t s
+great g r ey t
+greater g r ey dx axr
+greater g r ey dx ax r
+greater g r ey dx er
+greater g r ey t axr
+grenchen g r eh n ch ix n
+greni g r iy n iy
+gruda g r uw dh aa
+gruss g r ah s
+gudeg g uw d eh g
+gudeg g uh d eh g
+gudin g uw d iy n
+gudin g uw d ix n
+gudom g uw d ah m
+gudon g uw d ow n
+gudon g uw d ax n
+gugsa g uh g s ax
+gugsa g ah g s ax
+gulf g ah l f
+gulfair g ah l f ei r
+gulko g uh l k ow
+gulko g ah l k ow
+gunpa g uw ng p aa
+gupin g uw p ix n
+gurlo g uw r l ow
+gurlo g uw r l uw
+guten OOV_WORD
+gutentag g uw t eh n t ax g
+haget hh ae g ix t
+hahn hh aa n
+hahn hh ae n
+hainain hh ey n ey ix n
+halant hh ae l ax n t
+half hh ae f
+hall hh aa l
+hallo OOV_WORD
+hamag hh aa m aa g
+hamag hh ae m ax g
+hamburg hh aa m b ao r g
+hamburg hh ae m b er g
+hamm hh aa m
+hamm hh ae m
+hammelburg hh ah m ax l b ao r g
+hammelburg hh aa m ax l b er g
+hanau hh aa n aw
+hansa hh ae n s ah
+hapag hh ey p ae g
+hapaglloyd hh ey p ae g l oy d
+harem hh aa r ax m
+haret hh aa r ax th
+haret hh aa r t
+has hh ae z
+has hh ah z
+have hh ae v
+having hh ae v ih ng
+he hh iy
+heading hh eh d ih ng
+heavy hh eh v iy
+heavylift hh eh v iy l ih f t
+hectopascals hh eh k t ow p ae s k ae l z
+hehlingen hh iy l ix ng ax n
+hehlingen hh eh l ix ng ax n
+heidelberg hh ay dx ax l b eh r g
+heidelberg hh ay dx ax l b axr g
+hejda OOV_WORD
+helgoland hh eh l g ow l aa n d
+helgoland hh eh l g ow l ax n d
+heli hh eh l ix
+helingen hh iy l ix ng ax n
+helingen hh eh l ix ng ax n
+hello hh ah l ow
+hello hh eh l ow
+help hh eh l p
+helvetic hh eh l v eh t ix k
+hemau hh iy m aw
+herbi hh er b iy
+here hh iy r
+heringsdorf hh eh r ix ng z d ao r f
+herky hh er k iy
+hermsdorf hh eh r m z d ao r f
+hermsdorf hh er m z d ao r f
+heuse hh oy s ey
+high hh ay
+higher hh ay er
+highest hh ay ah s t
+hilfspunkt hh ih l f s p uh ng k t
+him hh ih m
+him ih m
+himug hh ay m ah g
+hm OOV_WORD
+hochwald hh ow k v aa l t
+hochwald hh oh k w ao l d
+hof hh ow f
+hohenfels hh ow ax n f eh l z
+hohn hh ow n
+hoi hh oy
+holan hh ow l aa n
+holand hh oh l ax n d
+hold hh ow l d
+holding hh ow l d ih ng
+holsten hh ow l s ix n
+holsten hh ow l s ax n
+holzdorf hh ow l t s d ao r f
+hopsten hh oh p sh t eh n
+hopsten hh oh p s t ax n
+hotel hh ow t eh l
+how hh aw
+howdi hh aw d iy
+however hh aw eh v er
+huge hh y uw jh
+huge y uw jh
+huh hh ah
+hullz hh ah l z
+hundred hh ah n d r ah d
+hundred hh ah n d r ih d
+hundred hh ah n er d
+hundred hh ah n d er d
+hungry hh ah ng g r iy
+i ay
+i'll ay l
+i'm ay m
+i'm ah m
+iason iy ah s ah n
+ibaga iy b aa g ax
+ibama iy b aa m aa
+iber ih b ei r
+iber iy b eh r
+iberia ay b ih r iy ah
+ibini iy b iy ng iy
+ibmix ih p m ih k s
+ibmix ih b m ih k s
+ibrot iy b r ow t
+ibrot ih b r oh t
+ibvov ih b v ax v
+ibvov ih b f ao f
+iceair ay s ey r
+iceman ay s ax m ae n
+idea ay d iy ah
+ideed ay d iy d
+ideed ay d ih d
+ident ay d eh n t
+identification ay d eh n t ah f ah k ey sh ah n
+identification ay d eh n ah f ah k ey sh ah n
+identified ay d eh n dx ix f ay d
+identified ay d eh n dx ix f ay d z
+idosa ix d ow s ax
+idosa ix d uw s ax
+idovi iy dh ao b iy
+if ih f
+if ih f
+ifor ix f ao r
+ifr ay eh f aa r
+ifs ih f s
+ikon ix k aa n
+illesheim ih l ax sh ay m
+illesheim ih l ax s hh ay m
+illesheim ih l iy sh ay m
+ilnek ih l n eh k
+ils ay eh l eh s
+ils ay l s
+ils eh l s
+immediately ih m iy d iy ah t l iy
+in ih n
+in ih n
+inbed ih n b eh d
+inbos ih n b ao s
+inbound ih n b aw n d
+inbound ih n b aw n d
+increase ih n k r iy s
+increase ih n k r iy s
+indair ih n d ei r
+indeed ih n d iy d
+india ih n d iy ah
+indicated ih n d ah k ey t ah d
+indicated ih n d ah k ey t ih d
+indication ih n d ah k ey sh ah n
+information ih n f er m ey sh ah n
+information ih n f ao r m ey sh ah n
+ingap ih n g aa p
+ingap ih ng g ae p
+ingolstadt ih ng g ax l sh t aa t
+ingolstadt ih ng g ax l s t ae t
+initial ih n ih sh ah l
+initially ih n ih sh ah l iy
+innsbruck ih n ch b r uh k
+innsbruck ih n z b r uh k
+inpud ih n p uh d
+inrer iy n r er r
+inside ih n s ay d
+inside ih n s ay d
+instead ih n s t eh d
+instructed ih n s t r ah k t ah d
+instructed ih n s t r ah k t ih d
+intentions ih n t eh n ch ah n z
+inter ih n t er
+intercept ih n t er s eh p t
+intercept ih n er s eh p t
+interception ih n t er s eh p sh ah n
+interception ih n er s eh p sh ah n
+interested ih n t r ah s t ah d
+interested ih n t r ih s t ih d
+interested ih n t er ah s t ah d
+interested ih n t er ih s t ih d
+interfere ih n t er f ih r
+interfere ih n er f ih r
+international ih n t er n ae sh ah n ah l
+international ih n er n ae sh ah n ah l
+intersection ih n t er s eh k sh ah n
+intersection ih n er s eh k sh ah n
+intersky ih n t er s k ay
+into ih n t uw
+into ih n t uw
+into ih n t ah
+iranair ix r ae n ei r
+irbir iy r b iy r
+irbir er b axr
+ireland ay er l ah n d
+ireland ay r l ah n d
+irgaw eh r g aw
+irish ay r ih sh
+irmas iy r m aa s
+irmas er m ax s
+is ih z
+is ih z
+israeli ih z r ey l iy
+israir ih s ei r
+it ih t
+it ih t
+it's ih t s
+it's ih t s
+itali iy t ae l iy
+itali ih t ae l iy
+itawa ay t aw ah
+its ih t s
+its ih t s
+itzehoe ih t s ax hh ow
+itzehoe ih t s ax hh ow ey
+ive OOV_WORD
+j-ways jh w ey z
+jagta jh ae g t ax
+jalbs jh oh b z
+japan jh ah p ae n
+japanair jh ax p ae n ei r
+jat y aa t
+jayde jh ey d
+jayse jh ey s iy
+jersey jh er z iy
+jet jh eh t
+jetaviation OOV_WORD
+jetcom OOV_WORD
+jetex jh eh t eh s
+jetline jh eh t l ay n
+jetlink jh eh t l ih ng k
+jetnetherlands jh eh t n eh dh axr l ax n d
+jetset jh eh t s eh t
+jetstar jh eh t s t aa r
+jettime jh eh t ay m
+jettime jh eh t t ay m
+jever y ey v axr
+jever jh iy v axr
+jeygo jh ey g ow
+jobair jh oh b ei r
+johnz jh oh n z
+jomoe jh ow m ow
+jordania OOV_WORD
+jordanian jh ao r d ey n iy ah n
+juliet jh uw l iy eh t
+juliett OOV_WORD
+jump jh ah m p
+jumprun jh ah m p r ah n
+junyao jh uw n iy aa ow
+just jh ah s t
+just jh ih s t
+kadno k aa d n ow
+kadno k ae d n ow
+kaliningrad k ao l ih n ih n g r aa d
+kalitta k ax l ih dx ax
+kamas OOV_WORD
+kanin k aa n iy n
+kanin k ae n ix n
+karlog k aa r l oh g
+karlsruh k aa r l z r uw
+karlsruhe k aa r l z r uw ax
+karlu k aa r l uw
+karthago k ax r t aa g ow
+karthago k ax r t ae g ow
+kartika k aa r t ay k ax
+kasat OOV_WORD
+kassel k aa s ax l
+kassel k ae s ax l
+kazan k ey z ax n
+kazan k ax z ae n
+keep k iy p
+kegos k ey g oh s
+kegos k eh g ow z
+kelel k iy l ey l
+kelel k iy l ei l
+kelel k ih l ei l
+kemad k iy m aa ax t
+kemad k iy m aa ax t ax
+kemes k iy m eh z
+kemes k eh m eh z
+kempten k eh m p t ax n
+kenig k iy n ix g
+kenig k eh n ix g
+kennebunk k eh n b ah ng k
+kennebunk k eh n ax b ah ng k
+kenok k iy n ao k
+kepom k iy p oh m
+kepom k eh p oh m
+kerax k eh r aa k s
+kerax k eh r ax k s
+kersy k eh r s iy
+kestrel OOV_WORD
+ketap k eh t ae p
+ketap k ey t ae p
+keteg k ey t eh k
+kibris k ih b r ix s
+kiel k iy l
+kill k ih l
+killed k ih l d
+kilnu k ih l n uw
+kilo k ih l ow
+kilometer k ah l aa m ah t er
+kilometer k ih l ah m iy t er
+kilometers k ah l aa m ah t er z
+kilometers k ih l ah m iy t er z
+kines k ay n z
+kirdi k iy r d iy
+kirdi k er d iy
+kirdi k ih r d iy
+kirdi k ei r d iy
+kirn k iy r n
+kirn k er n
+kitzingen k ih t s ix ng ix n
+klagenfurt k l aa g ax n f axr t
+klagy k l aa g iy
+klane k l ey n
+klasdorf k l aa z d ao r f
+klm OOV_WORD
+kloten k l ow dx ax n
+knots n aa t s
+know n ow
+kobus k ow b ax s
+koduk k ow d ax k
+koenig k ow n ix g
+koenig k uh n ix g
+koenig k axr n ix k
+koenig k axr n ix g
+kogim k ao g iy m
+kogol k ow g oh l
+kokeb k ow k eh b
+koksy k oh k s iy
+kolad k ow l aa d
+kolad k ow l ae d
+kolcha k ow l ch ax
+kolja k ow l y ax
+koln k er n
+koln-bonn k er n b ao n
+komep OOV_WORD
+komib k ow m ix b
+komiv k ow m ix v
+komur k ow m uh r
+komur k ow m axr
+konap k ow n ah p
+konar k ow n aa r
+konar k ow n axr
+konas k ow n aa s
+konig k er n ix g
+konig k oh n ix g
+konin k ow n ix n
+kopis k uw p ix s
+kopug k ow p ax g
+korean k ao r iy ah n
+korean k r iy ah n
+korean k er r iy ah n
+korup k ao r ax p
+kosam k ow z aa m
+kosam k ow s ax m
+koseb OOV_WORD
+kosix k ow s ix k s
+kovan k uw v ax n
+krasnojarsky k r ae s n oy aa r s k iy
+kubab k uw b ax b
+kubog k uw b ao g
+kudes k uw d eh s
+kudes k uw d z
+kugul OOV_WORD
+kuhtai k uw t ay
+kulok k uw l oh k
+kulut k uw l ax t
+kumer k uw m iy r
+kumer k uw m ei r
+kuner k uw n axr
+kunod k uw n oh d
+kusam k uw z ax m
+kusam k uw s ax m
+kuvix k uw v ix k s
+kuwaiti k uw w ey t iy
+la l aa
+laaga OOV_WORD
+laage l aa g ax
+laage l ae g
+labeg l aa b eh g
+labes l ax b eh s
+laconia l ax k oh n iy ax
+ladol l ax d oh l
+ladti l ae d t iy
+laga l aa r g axr
+lagar l aa g aa r
+lagar l ey g axr
+lagip l aa g ih p
+lagos l aa g ow s
+lagos l ey g ow s
+lahr l aa r
+laklo OOV_WORD
+lakol l aa k ow l
+lakol l ae k oh l
+lakol l ey k ax l
+lakol l ey k oh l
+lalin l aa l iy n
+lalin l ae l ix n
+laluk l aa l uw k
+lamgo l aa m g ow
+lamgo l ae m g ow
+lampu l aa m p uw
+lampu l ae m p uw
+lamsi l aa m z iy
+lamsi l ae m s iy
+lanas OOV_WORD
+lando l ae n d ow
+landsberg l aa n s b eh r g
+landsberg l ae n d z b axr g
+landsberg l aa n t s b eh r g
+landu l aa n d uw
+landu l aa n d ax
+landu l ae n d ax
+landu l ae n d uw
+landu l ax n d uw
+lange l ae ng
+langen l aa ng g ix n
+langi l aa ng g iy
+lanok l aa n ax k
+lanum l aa n uh m
+lanum l aa n uw m
+lanum l aa n ow m
+lanux l aa n uh k s
+lanux l ae n ax k s
+lapag l aa p aa g
+lapag l ae p ae g
+laret l aa r eh t
+laret l ah r eh t
+larma l ax r m ax
+larvi OOV_WORD
+lasga l ax s k aa
+lasga l aa s g ax
+lasid l aa z ih d
+lasid l ey z ix d
+lasis l aa s ix s
+lasis l ey s ix s
+lasme OOV_WORD
+lasmi l aa s m iy
+lasmi l ae z m iy
+last l ae s t
+last l ao s t
+last l ae s
+lasto l aa s t ow
+lasto l ae s t ow
+latag l aa t aa g
+latag l ey t ae g
+latba l aa t b aa
+latba l ae t b ax
+later l ey t er
+lauda l aw d ax
+laupheim l aw p hh ay m
+lawica l aa v ih k ax
+lda eh l d iy ey
+least l iy s t
+leave l iy v
+leaving l iy v ih ng
+lebku l iy b k uw
+lebso l eh b s ow
+lechfeld l eh k f eh l d
+lechfeld l eh ch f eh l d
+ledki l eh d k iy
+left l eh f t
+legda l eh g d ax
+leine l ay n ax
+leipzig l ay p s ix g
+leipzig l ay p z ix g
+leisure l eh zh er
+leisure l iy zh er
+lekmi l eh k m iy
+lelma l eh l m ax
+lelta l eh l t ax
+lembi l eh m b iy
+leniz OOV_WORD
+leobe l iy ow b ey
+lepsa l eh p s ax
+lersi l eh r s iy
+lersi l er s iy
+les l ey z
+les-eplatures l ey z p l ax t uh r
+lesmo l ey s m ow
+lesmo l eh z m ow
+less l eh s
+letko l eh t k ow
+letku l eh t k uw
+letna l eh t n ax
+level l eh v ah l
+lianhang l ay ae n hh ae ng
+liberty l ih b er t iy
+libsi l ih b s iy
+lift l ih f t
+ligba l ih g b ah
+ligba l iy g b ah
+light l ay t
+likda l ih k d ax
+like l ay k
+likewise l ay k w ay z
+lilki l ih l k iy
+lima l iy m ax
+limra l ih m r ax
+lin l ih n
+line l ay n
+link l ih ng k
+linz l ih n s
+linz l ih n z
+lion l ay ah n
+lipka l ih p k aa
+lippstadt l ih p sh t aa t
+lipsom l ih p s ax m
+lisba l ih s b ax
+lisba l ih z b ax
+litli l iy th l iy
+litoral l iy t ax r ax l
+litso l ih t s ow
+little l ih t ah l
+lizum l ih t s ax m
+lizum l ih t s uh m
+lktu l k dx uw
+lloyd l oy d
+lobma l ow b m ax
+lobma l ow p m oh
+localizer OOV_WORD
+lodro l ow d r uw
+lodsch l ow d z
+lodsch l oh d ch
+lodz l oh jh
+lodz l ow d z
+lodz l oh d jh
+lodz l oh d ch
+loewenberg l ow v ih n b er g
+lohre l ow r eh
+lohre l ow hh r ax
+lohre l ow hh r eh
+lohre l ao r ax
+lohre l ao r iy
+loksa l ow k s ax
+lokta l oh k t ax
+lomki l oh m k iy
+lomro l ow m r ow
+lomro l oh m r ow
+lomro l oh m r oh
+lomro l ax m r ow
+london l ah n d ah n
+long l ao ng
+lonli l ow n l iy
+lonli l ow n l ih
+lonli l ow n ix l iy
+looking l uh k ih ng
+looks l uh k s
+loop l uw p
+lopni l oh p n iy
+lorbo l ow r b ow
+lorbo l ao r b ow
+lorbo l ow b uw
+lorlo l ao r l ow
+lot l aa t
+lot l ao t
+loud l aw d
+lowenberg l uw ax n b eh r g
+lowenberg l ow ax n b axr g
+lower l ow er
+lowest l ow ah s t
+ltu eh l t iy y uw
+lubars l uw b aa r z
+lubeck l uw b eh k
+luburg l uw b ao r g
+luburg l uw b axr g
+luburg l uw b er g
+lucke l uh k ax
+lucke l ah k
+ludwigsburg l uh d w ih g s b er g
+ludwigsburg l uh d w ih g b axr g
+luftfahrtgesellschaft l uh f t f aa r t g eh s ax l sh ae f t
+lufthansa l ah f t ae n z ah
+lufty OOV_WORD
+luha OOV_WORD
+lukop l uw k oh p
+lular l uw l aa r
+lular l uw l ao r
+lular l uw l ah r
+lunip l uw n ih p
+lupen l uw p ix n
+lupol l uw p ao l
+lupox l uw p oh k s
+lupus l uw p ah s
+lurer l uh r axr
+luros l uh r oh s
+lusan l uw z aa n
+lusan l uh z ah n
+lusan l uh z aa n
+lusil l uw z iy l
+lusil l uw s ix l
+luwil l uw w ih l
+lux l ah k s
+luxair l ah k s ei r
+luxek l uw k s eh k
+luxek l ah k s ix k
+luxeuil l uw k s iy l
+lyon l ay ah n
+maastricht m aa s t r ih s t
+maastricht m aa s t r ih k t
+macair m ae k ei r
+mach m aa k
+madeb m aa d eh b
+madeb m ey d ax b
+madet m aa d eh t
+madet m ae dx ax t
+maerskair m eh r s k ei r
+magat m aa g aa t
+magat m ae g ax t
+magat m ae g aa t
+magda m aa g d aa
+magdeburg m aa g d ax b ao r g
+magdeburg m ae g d ax b axr g
+mages m aa g eh s
+mages m ey jh ix z
+mahlev m aa l ey v
+mahlev m aa l iy v
+mahley m aa l ay
+maintain m ey n t ey n
+maintaining m ey n t ey n ih ng
+maisach m ay z aa k
+makavio m aa k ey v iy oh
+make m ey k
+makot m ax k ax t
+makot m ax k ow t
+malaysian m ah l ey zh ah n
+maldy m aa l d iy
+malev m aa l ey v
+malev m aa l iy v
+malta m ao l t ah
+mambu m aa m b uw
+mambu m ae m b uw
+mamor m aa m ao r
+mamor m ae m ao r
+management m ae n ah jh m ah n t
+management m ae n ih jh m ah n t
+manal m aa n aa l
+mandala m ae n d ax l ax
+mansbach m aa n z b aa k
+mansbach m ae n z b aa k
+many m eh n iy
+mapik m aa p ih k
+maram m aa r aa m
+maram m ei r ax m
+marem m aa r ax m
+marem m aa r ih m
+marem m ah r eh m
+marem m aa ax r eh m
+maroc m ae r oh k
+marseille m aa r s ay l
+martinair m aa r t ix n ei r
+maru m aa r uw
+maru m ei r uw
+masek m aa s eh k
+masek m ey s ax k
+masir m aa s ih r
+masor m aa s ao r
+masp OOV_WORD
+matar m aa t aa r
+matib m aa t ih b
+matib m ae dx ix b
+matig m aa t ix g
+matig m ae t ix g
+matug m aa t uh g
+mawel m ey w eh l
+maxal m aa k s aa l
+maxal m ae k s ax l
+maximum m ae k s ah m ah m
+maxot m aa k s oh t
+maxot m ae k s ax t
+may m ey
+me m iy
+mebek m ey b eh k
+med m eh d
+medov m iy d ao f
+medov m eh d oh v
+mendig m eh n d ix g
+mengen m eh ng ax n
+mengen m eh ng g ax n
+mentioned m eh n sh ah n d
+merair m eh r ei r
+merci m er s iy
+meridiana OOV_WORD
+mermaid m er m ey d
+merpati m axr p aa dx iy
+mersi m ae r z iy
+mersi m er z iy
+met m eh t
+metro m eh t r ow
+metro m iy t r ow
+mexit m eh k s ix t
+michaelsdorf m ih hh aa eh l z d ao r f
+michaelsdorf m ay k ax l z d ao r f
+midex m ih d eh k s
+midland m ih d l ae n d
+mike m ay k
+mikov m iy k ao f
+mikov m ay k oh v
+milan m ah l aa n
+milan m ih l aa n
+milan m ay l ae n
+milano m iy l aa n ow
+miles m ay l z
+miles m ay ah l z
+milgu m ih l g uw
+milgu m eh l g ow
+military m ih l ah t eh r iy
+military m ih l ih t eh r iy
+milka m ih l k ax
+milka m eh l k ah
+milldorf m ih l d ao r f
+millibars m ih l ix b aa r z
+millt m ih l t
+mimva m ih m v ax
+minga m ih ng g ax
+minimum m ih n ah m ah m
+minute m ih n ah t
+minute m ay n uw t
+minute m ay n y uw t
+minutes m ih n ah t s
+minvody m ih n v ow d iy
+misgi m ih s g ax
+misgi m ih z g iy
+miski m ih s k iy
+missed m ih s t
+missing m ih s ih ng
+mission m ih sh ah n
+mistake m ih s t ey k
+mitni m ih t n iy
+mitnu m ih th n uw
+mitnu m ih t n uw
+mitnu m eh t n uw
+mitru m iy t r uw
+mitru m ay t r uw
+mixed m ih k s t
+mls eh m eh l eh s
+mobsa m oh b s ax
+modau m ow dx aw
+modau m oh aw
+modau m uh dx aw
+modau m uh d aw
+modau m ow d aw
+mode m ow d
+mogti m ao k t iy
+mogti m oh g t iy
+mokul m ow k uh l
+moldova m ow l d ow v ax
+momok m ow m oh k
+momuk m ow m uh k
+monak m ow n aa k
+monak m ow n ae k
+monarch m aa n aa r k
+monax m ow n aa k s
+monchengladbach m ax n ch ax n g l aa d b aa k
+monso m oh n s ow
+montenegro m oh n t eh n eh g r ow
+montmedy m oh n t m eh d iy
+mooce m ow s
+mooce m uw s
+mopip m ow p ix p
+more m ao r
+mored m ao r eh d
+morgen m ao r g ah n
+morning m ao r n ih ng
+morok m ao r oh k
+mosab m ow s aa b
+mosab m ow s ae b
+mosex m ow s eh k s
+mosin m ow z ix n
+mosin m ow s ix n
+motab m ow t aa b
+motab m ow t ae b
+mouth m aw th
+mov m ax v
+move m uw v
+moving m uw v ih ng
+mozart m ow z aa r t
+mozart m ow t s aa r t
+much m ah ch
+muechen m uw ch ax n
+muenchen m uw n ch ix n
+muenchen m uh n ch ax n
+muenchen m uw n ch iy n
+mulhouse m uh l hh aw z ax n
+munchen OOV_WORD
+munich m y uw n ih k
+munster m uh n s t axr
+munster-osnabruck m uh n s t axr ao s n ax b r uh k
+my m ay
+mysko m iy z k uw
+n.d.b. eh n d iy b iy
+nabbo n ae b ow
+nah n aa
+nakip n ae k ix p
+namub n aa m uw b
+namug n aa m uh g
+namug n ae m ax g
+napsa n aa p s ax
+napsa n ae p s ax
+napsa n ax p s ax
+narox n aa r ao k s
+narox n ei r oh k s
+narus n aa r uh s
+narus n ei r ax s
+nas n ae z
+nasat n aa ax z oh t
+nasat n aa z ax dx
+natag n aa t aa g
+natag n ae t ae g
+nato n ey t ow
+nator n aa t ao r
+nattenheim n aa dx ax n hh ay m
+nattenheim n aa t ax n hh ay m
+nauru n ax r uw
+nauru n ao r uw
+nav n ae v
+navigation n ae v ah g ey sh ah n
+navigation n ae v ah g ey sh ah n
+ndb eh n d iy b iy
+near n ih r
+neckar n eh k aa r
+nedik n iy d ix k
+need n iy d
+neets n iy t z
+negative n eh g ah t ih v
+negob n iy g oh b
+negob n eh g ax b
+negra n iy g r ax
+negra n eh g r ax
+nekar n eh k aa r
+nekin n iy k ix n
+nekin n eh k ix n
+nekom n ey k ao m
+nekso n iy k s uw
+nelbi n eh l b iy
+nelli n eh l iy
+nemal n iy m aa l
+nemal n eh m ax l
+nepov n iy p oh f
+nepov n eh p oh v
+nerid n eh r ix d
+neses n iy z ax s
+neses n eh z iy z
+net n eh t
+netes n iy t eh s
+netherlands n eh dh er l ah n d z
+neubrandenburg n oy b r aa n d ax n b axr g
+neubrandenburg n uw b r ae n d ax n b axr g
+neuburg n oy b ao r g
+neuburg n uw b axr g
+neuburg n oy b er g
+neuburg n uw b er g
+neunkirchner n oy n k iy r k n axr hh ow ey
+new n uw
+new n y uw
+newcastle n uw k ae s ax l
+next n eh k s t
+next n eh k s
+nibil n iy b ix l
+nibil n ih b ax l
+nice n ay s
+nice n iy s
+nidat n iy d aa t
+nidat n ay d ae t
+niederstetten n iy dx axr sh t eh dx ax n
+niederstetten n iy dx er s t ix dx ax n
+nienburg n iy n b axr g
+nigeb n iy g eh b
+nigeb n ay jh ax b
+nikda n iy k d ax
+niki n ih k iy
+niki n iy k iy
+niki n ih k ih
+nikki n ih k iy
+nikus n iy k uh s
+nikus n ay k ax s
+nikut n iy k uh t
+nikut n ay k ax t
+nilug n iy l ow k
+nimdi n ih m d iy
+nine n ay n
+niner n ay n er
+nineteen n ay n t iy n
+ninta n iy n t ax
+nipel n iy p eh l
+nipel n ay p ax l
+nippon n ih p aa n
+nirgo n ei r g ow
+niugini n uw g ih n iy
+no n ow
+nobri n ow b r ix
+nobri n ow b r iy
+nobru n ow b r uw
+noerdlingen n ao r d l ih ng g ix n
+noervenich n ao r v eh n ih hh
+noervenich n ao r v er n ih hh
+nogra n ow g r ax
+nokda n oh k d ax
+nokda n ao k d ax
+nokda n oh k d ah
+nokdi n oh k d iy
+nokdo n oh k d ow
+noksi n oh k s iy
+nolba n ow l b ax
+noley n ow l iy
+nolgo n ow l g ow
+nolgo n oy l g ow
+nombo n oh m b ow
+nombo n oh m b uw
+nomka n oh m k aa
+non n aa n
+nonko n ow n k uw
+noras n ao r d ax s
+noras n ao r aa s
+noras n oh r aa s
+nordholz n ao r d hh ow l t s
+norgu n ao r g uw
+norin n ao r ix n
+noris n ao r ix s
+norku n ao r k uw
+norku n ow r k ow
+norku n ow k uw
+normal n ao r m ah l
+normally n ao r m ah l iy
+normally n ao r m l iy
+norta n ao r t ax
+north n ao r th
+northshuttle n ao r th sh ah dx ax l
+norto n ao r t ow
+norvenich n ao r v eh n ih hh
+norvenich n ao r v er n ih hh
+nosbu n ao s b uw
+nosdo n oh s d ow
+nosdo n oh z d ow
+nospa n ao s p ax
+not n aa t
+notga n oh t g ax
+notgo n oh t g ow
+nouvelair n uw v ax l ei r
+november n ow v eh m b er
+novpo n ow v p uw
+now n aw
+nukro n uw k r ow
+number n ah m b er
+nunri n uh n r iy
+nunri n ah n r iy
+nurgo n uh r g ow
+nurgo n er g ow
+nurnberg n uh r n b axr g
+nurnberg n er n b axr g
+nurnberg n uh r n b eh r g
+nuzva n ah z v ax
+o'clock ah k l aa k
+obadi ow b aa dx iy
+obaga ow b aa g ax
+obaxa ow b aa k s ax
+obedi ow b iy dx iy
+obedi ow b ey dx iy
+obero ow b eh r ow
+oberpfaffenhofen ow b axr f aa f ax n hh ow f ax n
+obika ow b iy k ax
+obisi ow b iy s iy
+oboku uw b uw k uw
+observe ah b z er v
+obubi ow b uw b iy
+obviously aa b v iy ah s l iy
+occupied aa k y ah p ay d
+oclock OOV_WORD
+odegu ow d iy g uw
+odegu ow d eh g uw
+odido ow d iy d ow
+odina OOV_WORD
+odliv oh d l ix v
+odlun oh d l uw n
+odlun oh d l ax n
+odnem oh d n ax m
+odomo ow d ow m ow
+odomu OOV_WORD
+oduda ow d ow d aa
+oduda ow d uw d ax
+of ah v
+of ah v
+off ao f
+ogber ao g b axr
+ogepi ow g iy p iy
+ogrob oh g r oh b
+ogrob oh g r ax b
+ogsen oh g s ax n
+oh ow
+ohh OOV_WORD
+ok ow k ey
+okaga uw k aa g ax
+okay ow k ey
+okaydoke OOV_WORD
+okiba ow k iy b ax
+okilo ow k iy l ow
+okpus oh k p uh s
+olaso ow l aa z ow
+olaso ow l ae s ow
+olben ow l b eh n
+olbik ow l b ix k
+olbik oh l b ix k
+oldin ow l d ix n
+olen aa l ah n
+oletu ow l iy dx uw
+olno ow l n uw
+olpik OOV_WORD
+olpix ow l p ix k s
+olpix oh l p ix k s
+oltra ow l t r ax
+olympic ow l ih m p ih k
+oman ow m aa n
+omega ow m eh g ah
+omega ow m ey g ah
+omelo ow m eh l ow
+omelo ow m iy l ow
+on aa n
+on ao n
+onboard oh n b ao r d
+onboard oh n b ow r d
+one w ah n
+one hh w ah n
+only ow n l iy
+onur ow n uh r
+onurair ao n ow ei r
+opposite aa p ah z ah t
+opposite aa p z ah t
+or ao r
+or er
+orbit ao r b ah t
+orbiting ao r b ah t ih ng
+order ao r d er
+ortag ao r t aa g
+ortag ao r t ae g
+ortuv ao r t uh f
+ortuv ao r t ax v
+os aa s
+osban ao s b aa n
+osban oh z b ae n
+osbit ao s b ix t
+osbit oh z b ix t
+oscar ao s k er
+osder oh s d eh r
+osder oh z d axr
+osdov oh s d oh f
+osdov oh z d oh v
+osdur ao s d uh r
+osdur oh z d axr
+oskan ao s k aa n
+oskan oh s k ae n
+oskat oh s k aa t
+oskat oh s k ae t
+oskud oh s k uw d
+osnabruck ao s n ax b r uh k
+osnabruck oh z n ax b r uh k
+osnabruck oh s n ax b r uh k
+osnabrueck ao s n ax b r uh k
+osnabrueck oh z n ax b r uh k
+osnabrueck oh s n ax b r uh k
+osnak oh s n ax k
+osnub ao s n uh b
+osnub oh z n ax b
+ospee oh s p iy
+ostes ao s t eh s
+ostes oh s t eh s
+ostra ao s t r ax
+ostra oh s t r ax
+otbed oh t b eh d
+other ah dh er
+others ah dh er z
+otres oh t r eh z
+otres ow t r ey s
+otres oh t r eh s
+ottringham oh t r ix ng hh ae m
+ottringham oh t r ix ng ax m
+out aw t
+over ow v er
+overhead ow v er hh eh d
+owlet aw l eh t
+own ow n
+ozjet oh z jh eh t
+ozwest oh z w eh s t
+pabla p ae b l ax
+pabmi p ae b m iy
+pabsa p aa b s aa
+pabsa p ae b s ax
+pac-east p ae k iy s t
+pacav p ae k v
+paderborn p aa dx axr b ao r n
+paderborn-lippstadt p aa dx axr b ao r n l ih p sh t aa t
+padka p aa d k aa
+padka p ae d k ax
+padua p ae d y uw ah
+papa p aa p ah
+para p ei r ax
+para p ae r ax
+parchim p aa r hh ix m
+paris p eh r ih s
+paris p ae r ih s
+parking p aa r k ih ng
+pasau p aa z aw
+pasau p ae s aw
+pass p ae s
+passeiry OOV_WORD
+passing p ae s ih ng
+path p ae th
+pattern p ae t er n
+peeber p iy eh b axr
+pegaviation p eh g ax v iy ey sh ax n
+pegaviation p eh g ey v iy ey sh ax n
+pelad p iy l aa d
+pelad p iy l ae d
+pelan p iy l ax n
+pelan p eh l ax n
+pelita p eh l ix dx ax
+pelog p iy l ao g
+pelog p eh l oh g
+pelup p eh l uw p
+pelup p iy l uw p
+penek p iy n eh k
+penem p iy n ax m
+peoples p iy p ah l z
+pepik p iy p ix k
+pepik p eh p ix k
+pepol p iy p oh l
+pepol p iy p ax l
+per p er
+perex p eh r ax k s
+perex p iy r ax k s
+perform p er f ao r m
+permit p er m ih t
+permit p er m ih t
+perom p eh r oh m
+perox p eh r oh k s
+pesel p iy z l
+pesim p iy s ix m
+pesim p eh s ix m
+pesip p iy s ix p
+pesip p eh s ix p
+petix p iy t ix k s
+petix p eh t ix k s
+petom p iy t oh m
+pexam p iy k s ax m
+pexam p eh k s ax m
+pfalzer f eh l t s axr
+philippine f ih l ix p iy n
+pibad p iy b aa d
+pibad p ay b ae d
+pick p ih k
+pigab p iy g ax b
+pigab p iy g aa p
+pigmi p ix k m iy
+pilam p iy l aa m
+pin p ih n
+pingo p ih ng g ow
+pirap p ih r ax p
+pirap p ay r ae p
+pirek p iy r eh k
+pirol OOV_WORD
+piten p iy t eh n
+pites p iy t eh s
+pitok p iy t oh k
+pitok p ih t ax k
+pivir p iy v iy r
+pixel p ih k s ax l
+planned p l ae n d
+planter p l aa n t ax
+planter p l ae n t axr
+plaun p l aa uw n
+plaun p l aa r uh n
+plaun p l uw n
+plaun p l aa uw m
+please p l iy z
+pleasure p l eh zh er
+pobox p uw b oh k s
+poder p ow d oh
+poder p ow d eh r
+podus p ow d uw s
+pogab p ow g aa b
+pogab p ow g ae b
+point p oy n t
+poken p uw k eh n
+polair p ax l ei r
+polish p aa l ih sh
+polish p ow l ih sh
+pollot p oh l ax t
+popvee p oh p v iy
+portugal p ao r ch ax g ax l
+portugal p ao r t uw g ax l
+portugalia p ao r ch uw g ey l iy ah
+position p ah z ih sh ah n
+possibility p aa s ah b ih l ah t iy
+possible p aa s ah b ah l
+povel p ow v ax l
+povel p aa v ax l
+prague p r aa g
+prague p r aa g ax
+prague p r aa hh ax
+praha p r aa g
+praha p r aa g ax
+praha p r aa hh ax
+prat p r ae t
+preceding p r iy s iy d ih ng
+prefer p r ah f er
+prefer p r ih f er
+prefer p r iy f er
+present p r eh z ah n t
+present p r iy z eh n t
+present p er z eh n t
+presently p r eh z ah n t l iy
+pressure p r eh sh er
+previous p r iy v iy ah s
+prex p r iy
+prex p r eh k s
+primejet p r ay m jh eh t
+prior p r ay er
+privatair p r ay v ax t ei r
+private p r ay v ah t
+problem p r aa b l ah m
+problems p r aa b l ah m z
+procedure p r ah s iy jh er
+procedure p r ow s iy jh er
+proceed p r ah s iy d
+proceed p r ow s iy d
+proceed p er s iy d
+pronair p r oh n ei r
+pub p ah b
+pudye p uh dx iy
+pula p uw l aa
+pula p y uw l ax
+pulkovo p ah ax k ow v ow
+qantas k w aa n t ax s
+qatar k ah t aa r
+qnh k y uw eh n ey ch
+quadriga k w ax d r ih g ax
+quality k w aa l ix dx iy
+quality k w aa l ix t iy
+quantas k w aa n t ax s
+quatari k w ax t aa r iy
+quebec k w ah b eh k
+quite k w ay t
+qwota k w ow dx ax
+radar r ey d aa r
+radel r aa d eh l
+radial r ey d iy ah l
+radio r ey d iy ow
+radisair r ae d ix s ei r
+rafair r ae ei r
+raket r aa k ix t
+rakit r aa k ix t
+rakovnik r ax k ao f n ix k
+ralib r aa l iy p
+raliv r aa l ix v
+rammstein r aa m sh t ay n
+rammstein r aa m sh t iy n
+ramstein r aa m sh t ay n
+ramstein r ae m s t iy n
+ramstein r aa m s t iy n
+ramstein r aa m sh t iy n
+range r ey n jh
+ranok r aa n ao k
+rapet r aa p eh t
+rapet r ae p ix t
+rapor r aa p ao r
+rapor r ae p axr
+rarup r aa r ax p
+rarup r aa r uh p
+rasik r aa s ix k
+rasim r aa s ix m
+rasim r ax s iy m
+rasok r aa s ax k
+rasok r ey s oh k
+raspu r aa s p uw
+raspu r ae s p uw
+rasta r aa s t ax
+rasta r ae s t ax
+rasut r aa s uw t
+rasvo r ae s v uw
+rate r ey t
+ratev r aa t eh v
+ratgi r aa t g iy
+ratim r aa t iy m
+ratim r ae dx ix m
+ratip r aa t ix p
+ratip r ae dx ix p
+ratis r aa t ix s
+ratis r ae dx ix s
+ratmo r ae t m uw
+rattenberg r aa t ax n b eh r g
+rattenberg r ae dx ax n b axr g
+raved r aa v ix d
+raved r oh v eh d
+ravku r aa v k uw
+ravku r ae v k uw
+ravlo r ae v l uw
+ray r ey
+raynm r ey n ax m
+re r ey
+re r iy
+reach r iy ch
+reaching r iy ch ih ng
+read r iy d
+reading r eh d ih ng
+reading r iy d ih ng
+ready r eh d iy
+realized r iy l ay z d
+realized r iy ah l ay z d
+really r ih l iy
+really r iy l iy
+reason r iy z ah n
+rebdu r eh b d uw
+received r ah s iy v d
+received r ih s iy v d
+received r iy s iy v d
+recken r eh k ax n
+reclearance r iy k l iy r ax n s
+recleared r iy k l iy r d
+recleared r iy k l iy er d
+recycle r iy s ay k ah l
+redbu r eh d b uw
+redli r eh d l iy
+redmo r eh d m uw
+redni r eh d n iy
+reduce r ah d uw s
+reduce r ih d uw s
+reduce r iy d uw s
+redvo r eh d v ow
+refso r eh f s ow
+regional r iy jh ah n ah l
+reims r iy m z
+rekdi r eh k d iy
+rekken r eh k ax n
+relax r ih l ae k s
+relax r iy l ae k s
+relko r eh l k ow
+remain r ih m ey n
+remain r iy m ey n
+rendo r eh n d ow
+renka r eh ng k ax
+renki r eh ng k iy
+renki hh r eh ng k iy
+renlo r eh n l ow
+renta r eh n t ax
+renti r eh n t iy
+report r iy p ao r t
+report r ih p ao r t
+reported r iy p ao r t ah d
+reported r ih p ao r t ah d
+repoy r iy p oy
+request r ih k w eh s t
+request r iy k w eh s t
+requested r ih k w eh s t ih d
+requested r iy k w eh s t ah d
+requested r iy k w eh s t ih d
+requesting r ih k w eh s t ih ng
+requesting r iy k w eh s t ih ng
+rerouted r iy r uw t ih d
+rerouted r iy r aw t ih d
+resia OOV_WORD
+respect r ih s p eh k t
+respect r iy s p eh k t
+restricting r iy s t r ih k t ih ng
+restriction r iy s t r ih k sh ah n
+restrictions r iy s t r ih k sh ah n z
+resume r ih z uw m
+resume r iy z uw m
+resume r eh z ah m ey
+reutl r oy dx ax l
+revoir r ih v w aa r
+rhein r ay n
+rheine OOV_WORD
+rheintal r ay n t ax l
+rhine r ay n
+riau r ay
+ridar r iy d aa r
+ridar r iy d axr
+ridsu r ix d s uw
+ried r iy d
+right r ay t
+riklu r ih k l uw
+rilax r iy l ae k s
+rimki r ih m k iy
+ripik r ih p ix k
+ripit r ih p ih t
+risma r ih z m ax
+risok r iy s ao k
+risuk r iy s uh k
+ritup r iy t uh p
+ritup r ih t ax p
+rivsa r ih f s ax
+rixed r ih k s eh d
+rixed r ih k s ix d
+rixed r ih k s t
+rnav aa r n ae v
+robdi r oh b d iy
+robeg r ow b eh g
+robel r ow b ax l
+rodep r uw d eh p
+roding r ow dx ix ng
+rodis r ow dx ix s
+rodko r oh d k ow
+rodno OOV_WORD
+rodog r ow d oh g
+rodog r uw d oh g
+rodul r aw d uw ax l
+rodus OOV_WORD
+rodux r ow d uh k s
+rogab r ow g ah p
+rogbo OOV_WORD
+roger r aa jh er
+rokem r ow k ax m
+rokil r ow k ix l
+rokil r ow k iy l
+rokil r ow k ih l
+rolampont OOV_WORD
+rolis r uw l ih s
+roll r ow l
+rolso r ow l z ow
+rolso r oh l s ow
+romavia r ow m aa v iy ax
+romeo r ow m iy ow
+romga r ow m g aa
+romir r ow m iy r
+romis r ow m ix s
+ronag r ow n aa g
+ronig r ow n ix g
+rontu r oh n t uw
+rosno r oh z n ow
+rosok r uw s oh k
+rostock-lage r ih s t ax k l aa g ax
+rotax r ow t ae k s
+roten r ow dx ax n
+rotenbach r ow t ae n b aa ch
+rotenbach r ow dx ax n b aa k
+rotenbach r ow t eh n b aa k
+rothenbach r ow dx ax n b aa k
+rothenbach r oh dx ax n b aa k
+rothenburg r ow t ax n b ao r g
+rothenburg r oh t ax n b axr g
+rotin r ow dx ix n
+rotin r oh t ix n
+rotol r ow dx ow l
+round r aw n d
+route r uw t
+route r aw t
+routing r aw t ih ng
+routing r uw t ih ng
+roxin r oh k s ix n
+royal r oy ah l
+royaljet r oy ax l jh eh t
+ruda r uw d ah
+rudak r uw d ae k
+rudap r uw d ah p
+rudesheim r uw d ax s hh ay m
+rudesheim r uw d ax sh ay m
+rudesheim r uw d ix s hh ay m
+rudka r uw d k ax
+rudno r ah d n ow
+rudno r uw d n ow
+rudot r uw d oh t
+rudus r uw d ao s
+rudus r uw d ow s
+ruedesheim r uw d ax s hh ay m
+ruedesheim r uw d ax sh ay m
+ruedesheim r uw d ix s hh ay m
+runner r ah n er
+runway r ah n r ey
+runway r ah n v ey
+rusot r uw s oh t
+russia r ah sh ah
+rusti r uw s t iy
+rusti r ah s t iy
+rutan r uw t aa n
+ruwer r uw v er
+rvr aa r v iy aa r
+ryan r ay ah n
+ryanair r ay ah n eh r
+s eh s
+saarbrucken s aa r b r uh k ax n
+saarbrucken z aa r b r uh k ax n
+saarbruecken s aa r b r uh k ax n
+saarbruecken z aa r b r uh k ax n
+sabak s aa b ax k
+sabak s aa b aa k
+sabak z aa b ax k
+sabena s ah b iy n ah
+sacir s ae k ei r
+sacir s ae k ih r
+sadto s ae d t ow
+saffa s aa f ax
+said s eh d
+saint s aa n
+saint s ey n t
+sallo s aa l ow
+sallo z aa l ow
+salzburg s aa l t s b ao r g
+salzburg s ao l z b axr g
+same s ey m
+sanfd s ae n f axr d
+saronno OOV_WORD
+sasal z aa z aa l
+sasal s ae s ax l
+sata OOV_WORD
+saudia s ao d iy ax
+say s ey
+scan s k ae n
+scandi s k ae n d iy
+scandinavian s k ae n d ih n ey v iy ah n
+scanor s k aa n axr
+scanwing s k aa n w ih ng
+scatter s k ae t er
+scattered s k ae t er d
+schiphol sh ih f ao l
+schkeudiz s k oy d ix t s
+schkeudiz s k uw d ix z
+schleswig sh l eh z w ix g
+schoenhagen sh ow n hh aa g ih n
+schonefeld sh uh n ax f eh l t
+schonefeld sh er n f eh l d
+schonen OOV_WORD
+schwabisch sh w ey b ix sh
+schwabisch-hall sh w ey b ix sh hh aa l
+schweinfurt sh v ay n f axr t
+schwerin sh v eh r iy n
+schwerin-parchim sh v eh r iy n p aa r hh ix m
+scupp s k ah p
+sec s eh k
+second s eh k ah n d
+second s eh k ah n
+sector s eh k t er
+see s iy
+seems s iy m z
+sent s eh n t
+separation s eh p er ey sh ah n
+servus s er v uw s
+servus s eh r v uw s
+set s eh t
+seven s eh v ah n
+seychelles s iy sh eh l z
+shamrock sh ae m r aa k
+shang sh ae ng
+shoenefeld sh ow n ax f eh l d
+shoenefeld sh uh n ax f eh l t
+shoenefeld sh ow n f eh l d
+short sh ao r t
+shortcut sh ao r t k ah t
+shortly sh ao r t l iy
+should sh uh d
+shuttle sh ah t ah l
+siberia s ay b ih r iy ah
+sierra s iy eh r ah
+sigen z iy g eh n
+sigen s ih g ax n
+siggi s ih g iy
+sight s ay t
+sign s ay n
+silve s ih l v iy
+simba s ih m b ax
+simply s ih m p l iy
+sinba s ih n b ax
+since s ih n s
+singa s ih ng ax
+singapore s ih ng ax p ao r
+singcargo s ih ng k aa r g ow
+sir s er
+sirio s iy r iy ow
+sisgo s ih s g ow
+sitni s ih t n iy
+six s ih k s
+sixteen s ih k s t iy n
+sixteen s ih k s t iy n
+sixty s ih k s t iy
+sky s k ay
+skyfox OOV_WORD
+skytrans s k ay t r ae n z
+slightly s l ay t l iy
+slower s l ow er
+slubice s l uw b ix ch eh
+snaice s n ey s
+snice s n ay s
+so s ow
+sobelair OOV_WORD
+soblu s ow b l uw
+sodro s oh t r ow
+sodro s ow d r ow
+sodro z ow dx r ow
+sogma s ow g m ax
+sogmi s ow g m iy
+soleil s ow l ay l
+soleil s ow l ey
+solgo s ow l g uw
+solgo z ow l g uw
+solidair s oh l ix d ei r
+solinair s oh l ix n ei r
+sollenau s oh l ax n aw
+solpac s ow l p ae k
+soltire s oh l t ay r
+soltire s ow l t ay r
+solvu s oh l v uw
+someone s ah m w ah n
+somis s ow m ix s
+somix s ow m ix k s
+somko s oh m k ow
+sonal s uw n ax l
+sondu s oh n d uw
+sonom s ow n ax m
+sonud z uw n uw d
+soon s uw n
+sopla s oh p l ax
+sopod s ow p oh d
+sorry s aa r iy
+sosid s ow s ix d
+sotov s ow t oh f
+sotov s ow t oh v
+south s aw th
+southern s ah dh er n
+southflight s aw th f l ay t
+space s p ey s
+spair OOV_WORD
+spanair s p ae n ei r
+spangdahlem s p ae n d ax l ax m
+spangdahlem sh p ae n d ax l ax m
+spar s p aa r
+speed s p iy d
+speedbird s p iy d b er d
+speedway s p iy d w ey
+spessart sh p eh s aa r t
+spessart s p eh s axr t
+speyer sh p ay axr
+speyer s p ay axr
+spijkerboor s p ay k axr b ao r
+spikerboorg s p ay k axr b axr g
+spikerborg s p ay k axr b axr g
+split s p l ih t
+split sh p l ih t
+springbok s p r ih ng b aa k
+squawk s k w ao k
+squawking s k w ao k ih ng
+srilankan s r iy l ae ng k ax n
+st s t r iy t
+st s ey n t
+stable s t ey b ah l
+stand s t ae n d
+standard s t ae n d er d
+standby s t ae n d b ay
+standing s t ae n d ih ng
+star s t aa r
+starsa s t aa r s ax
+starts s t aa r t s
+starway s t aa r w ey
+starwing s t aa r w ih ng
+state s t ey t
+station s t ey sh ah n
+staub sh t aw b
+staub s t ao b
+stavanger s t aa v ax n axr
+stay s t ey
+steel s t iy l
+stein s t ay n
+stein sh t ay n
+stevo s t iy v ow
+still s t ih l
+stockerau sh t oh k ax r aw
+stockerau s t oh k ax r aw
+stoge s t ow jh
+stop s t aa p
+stopping s t aa p ih ng
+strasbourg s t r aa s b ao r g
+straubing s t r ao b ix ng
+straubing s t r aw b ix ng
+strausberg s t r aw z b er g
+straussfeld s t r aw s f eh l d
+stress s t r eh s
+stuttgart sh t uh t g aa r t
+stuttgart s t uh t g aa r t
+stuttgart s t ah t g axr t
+suben s uw b ix n
+subi s uw b iy
+subi z uw b iy
+succeeding s ah k s iy d ih ng
+sudamericana s uw d ax m eh r ix k ae n ax
+suden s uw d ax n
+sudux s uw d ax k s
+sufficient s ah f ih sh ah n t
+suggest s ah g jh eh s t
+sugit s uw g ix t
+sukad s uw k ax d
+sukad s uw k ae d
+sukon s uw k oh n
+suled s uw l eh d
+suliv s uw l ih v
+suliv z uw l ih v
+sulus s uw l ah s
+sulus s uw l uh s
+sulus s uw l uw s
+sulz s uw l t s
+sumug s uw m ax g
+sun s ah n
+suner s uw n axr
+sunexpress s aa n eh k s p r eh s
+sunrise s ah n r ay z
+sunwing OOV_WORD
+supil s uw p iy l
+supil z uw p iy l
+supix s uw p ix k s
+sure sh uh r
+sveda s v iy d ax
+swalm sh v aa l m
+swalm sh v ax l m
+swanz s w aa n z
+swedestar s w eh d eh s t axr
+swedjet s w eh jh ax t
+swift s w ih f t
+swigg s w ih g
+swiss s w ih s
+swissair s w ih s eh r
+switch s w ih ch
+sylt s uh l t
+sylt s ih l t
+syrianair s ih r iy ax n ei r
+t t iy
+tabat t aa b aa t
+tabat t ae b ax t
+tacan t ae k ae n
+taduv t aa d uw f
+taduv t ae d ax v
+tag t ae g
+tagik t aa g ix k
+tagik t ae g ix k
+tagob t ae g oh b
+taits t ey t z
+take t ey k
+takor t aa k ao r
+takor t ey k ao r
+takut t aa k uw t
+takut t ae k ax t
+talal t aa l aa l
+talal t ae l ae l
+taleg t aa l eh g
+talk t ao k
+tamazi t ax m ax z iy
+tameb t aa m eh b
+tango t ae ng g ow
+target t aa r g ah t
+target t er g ah t
+tarom t eh r ah m
+taunus t aw n ax s
+tavso t ax v s ow
+tavso t ax f s ow
+tayub t ey ah b
+tazz t ae z
+tcshuss OOV_WORD
+team t iy m
+tebgo t eh b g ow
+tedgo t eh d g ow
+tegba t eh k b ay
+tegel t iy g ax l
+tegel t eh g ax l
+teksi t eh k s iy
+tektu t eh k t ow
+tell t eh l
+tempelhof t eh m p ax l hh ao f
+tempelhof t eh m p ax l hh uw f
+tempelhof t eh m p ax l hh aa f
+temperature t eh m p r ah ch er
+temperature t eh m p er ah ch er
+ten t eh n
+tenlo t eh n l ow
+tepna t eh p n ax
+terda t eh r d aa
+terminate t er m ah n ey t
+tesdu t eh z d uw
+tesga t eh s g ax
+tetko t eh t k ow
+thai t ay
+than dh ae n
+than dh ah n
+thank th ae ng k
+thanks th ae ng k s
+that dh ae t
+that dh ah t
+that's dh ae t s
+the dh ah
+the dh ah
+the dh iy
+then dh eh n
+there dh eh r
+thereafter dh eh r ae f t er
+think th ih ng k
+thirteen th er t iy n
+thirty th er d iy
+thirty th er t iy
+this dh ih s
+this dh ih s
+thompson t aa m p s ah n
+thompson t aa m s ah n
+thousand th aw z ah n d
+thousand th aw z ah n
+three th r iy
+three d r iy
+three t r iy
+through th r uw
+tikni t ih k n iy
+till t ih l
+tilmo t ih l m ow
+time t ay m
+times t ay m z
+tinod t ih n oh d
+tipam t iy p aa m
+tipam t ay p ax m
+tiput t iy p uw t
+tirol t ay r ax l
+tirol t ix r oh l
+tirol t ix r ao l
+tirul t iy r uh l
+tirul t iy r ax l
+tirul t ih r uh l
+tirul t ih r ah l
+tirul t ih r uw l
+titig t iy t ix g
+titig t ih t ih g
+titig t ih dx ih g
+titix t iy t ih k s
+titix t iy t ix k s
+to t uw
+to t ih
+to t ah
+tobad t ow b aa d
+tobad t ow b ae d
+tobiv t ow b ix v
+tobso t oh b s ow
+today t ah d ey
+today t uw d ey
+told t ow l d
+toley t ow l iy
+tolgi t oh l g iy
+tomki t oh m k iy
+tomti t oh m t iy
+tonsu t oh n z uw
+tonsu t oh n s uw
+too t uw
+top t aa p
+top t ao p
+topend t oh p eh n d
+topso OOV_WORD
+topswiss OOV_WORD
+topto t oh p t ow
+torino t ao r iy n ow
+torline t ao r l ay n
+torpu t ow p uw
+torpu t ao r p uw
+tostu t oh s t uw
+tour t uh r
+towards t ah w ao r d z
+towards t ao r d z
+tower t aw er
+track t r ae k
+tradition t r ah d ih sh ah n
+traffic t r ae f ih k
+transaero t r ae n z ei r ow
+transavia t r ae n z aa v iy ax
+transbrasil t r ae n s b r ax s ih l
+transbrazil t r ae n s b r ax z ih l
+transglobal t r ae n s g l ow b ax l
+transition t r ae n z ih sh ah n
+translift OOV_WORD
+transmission t r ae n s m ih sh ah n
+transmission t r ae n z m ih sh ah n
+transoviet t r ae n z s ow v iy eh t
+transoviets t r ae n z s ow v iy eh t s
+transwede OOV_WORD
+trasa t r aa z ax
+trasadingen t r aa z ax dx ih ng ix n
+trasadingen t r aa z aa d ix g ax n
+traser t r ae s axr
+traserdingen t r ae s eh r d ix ng axr
+traserdingen t r ae s er d ix n g axr
+traserdingen t r aa z aa d ix g ax n
+traserdingen t r ae z eh r d ix n g er
+traun t r aw n
+traun t r ao n
+traun t r ae uh n
+travel t r ae v ah l
+treble t r eh b ah l
+tree t r iy
+trek t r eh k
+trent t r eh n t
+trex t r eh k s
+trigana t r ix g ae n ax
+tripe t r ay p
+triple t r ih p ah l
+trosa t r uw z ax
+troubles t r ah b ah l z
+try t r ay
+tscheb ch eh b
+tscheb t sh eh b
+tschu OOV_WORD
+tschuss OOV_WORD
+tubri OOV_WORD
+tudga t uw d g ax
+tudga t ah jh ax
+tuifly t uw ix f l ay
+tuijet t uw ix jh ax t
+tulsi t uh l z iy
+tulsi t ah l s iy
+tunair t uw n ei r
+tunis t uw n ih s
+tunis t uw n iy s
+tunisair OOV_WORD
+tunisia t uw n iy zh ah
+tunum t uw n ax m
+turap t uh r aa p
+turap t er ae p
+turbo t er b ow
+turbu t uh r b uw
+turbu t er b uw
+turjet t er jh ix t
+turk t er k
+turkair t er k ei r
+turkish t er k ih sh
+turn t er n
+turning t er n ih ng
+turns t er n z
+tusos t uw s oh s
+tusos t uw s ow s
+tusro t uh s r ow
+tusro t ah z r ow
+tusto th uh s t ow
+tutal t uw t aa l
+tuvak t uw v aa k
+tuvak t uh v aa k
+tuvak t uw v ax k
+tuvak t uw v ae k
+tuvak t uw b ax k
+tuyuc t uw ay ax k
+twelve t w eh l v
+twenty t w eh n t iy
+twenty t w eh n iy
+twinstar t w ix n s t aa r
+two t uw
+twos t uw z
+tynwald t ay n w ax l d
+type t ay p
+tyrolean t ix r ow l iy ax n
+tyroljet t ix r ow l jh ax t
+ubaga OOV_WORD
+ubeno uw b ih n uw
+ubidu uw b ih d uw
+ubigi uw b ih g iy
+uburu uw b uw r uw
+uh ah
+ukay y uw k ey
+ukraine y uw k r ey n
+ulmes uh l m eh s
+ulmes ah l m iy z
+ulmex uh l m eh k s
+ulmex ah l m eh k s
+umbal uh m b aa l
+umbal ah m b ax l
+umupu uw m uw p w uw
+unavi uw n aa v iy
+unavi y uw n aa v iy
+under ah n d er
+understand ah n d er s t ae n d
+ungav uw n g ax v
+uniform y uw n ah f ao r m
+unimi uw n iy m iy
+unimi y uw n ih m iy
+united y uw n ay t ah d
+united y uw n ay t ih d
+unken uh ng k ax n
+unken ah ng k ax n
+unker ah ng k axr
+unkom uh n k ao m
+unkom uh n k ow m
+unkul uw n k uw l
+unkul ah ng k ax l
+unser uh n z axr
+unser ah n s axr
+unserviceable ah n s er v ix s ax b ax l
+until ah n t ih l
+up ah p
+upala uw p aa l ax
+upala y uw p ae l ax
+upala uh p aa l ax
+upon ah p aa n
+urona uw r ow n aa
+urona uh r ow n ax
+us ah s
+us y uw eh s
+use y uw s
+use y uw z
+usedu uh s eh t uh
+usedu uh s eh t uw
+usemi uw s iy m iy
+useti uw s ih t iy
+ustil uw s t ih l
+utaba uw t aa b ax
+utair uw t ei r
+uvsov uw f s ao f
+uvsov ah v s oh v
+v.o.r. v iy ow aa r
+vaber f aa b eh r
+vaber v ey b axr
+vadan v aa dx aa n
+vadan v ey dx ax n
+vadko v aa d k ow
+vadko v ae d k ow
+vadov f aa d ao f
+vadov v ey d oh v
+vadru v aa dx r uh
+vagab v aa g aa b
+vagab v aa g aa p
+vagab b oh g ax t
+vakla f aa k l ax
+vakla v ae k l ax
+vakul f aa k uw l
+vakul v ae k ax l
+valar v aa l ax
+valda v aa l d ah
+valdi v aa l d iy
+valdi v ae l d iy
+valen f aa l ax n
+valen v ey l ax n
+vamas v aa m aa s
+vaper v ey p axr
+varik v aa r ix k
+varik v ei r ix k
+vatak f aa t aa k
+vatak v ey dx ae k
+vatal f aa t aa l
+vater f aa t eh r
+vater v ey dx axr
+vatup v aa t uh p
+vatup v ey dx ax p
+vavor v aa v ao r
+vavor f aa f ao r
+vebeg f iy b eh g
+vebeg v ey b eh g
+vectoring v eh k t ax r ix ng
+vectors v eh k t axr z
+veken f iy k ax n
+veken v ey k ax n
+velan v iy l ax n d
+velis f iy l ix s
+velis v eh l ix s
+velom f iy l ao m
+velom v eh l ax m
+vemug f iy m uh hh
+vemug v eh m ax g
+vemut f iy m uw t
+vemut v eh m ax t
+venen f iy n eh n
+venen v eh n ix n
+venen v eh n ax n
+venox f iy n ao k s
+venox v eh n oh k s
+venub f iy n uh b
+venub v eh n ax b
+very v eh r iy
+vesal v iy s aa l
+vesal v eh s ax l
+vesid v iy s ih d
+vesid v eh s ix d
+vesix v iy s iy k s
+vesta v eh s t aa
+vesta v eh s t ax
+vesub v eh s uw b
+vesub v iy s uw b
+vexil v eh k s iy l
+vexil v eh k s ix l
+vfr OOV_WORD
+via v iy ax
+via v ay ax
+vibis v iy b ih s
+vibis f iy b ix s
+vibug f iy b uh g
+vibug v ay b ax g
+vicenza v iy ch eh n z ax
+vicenza v ix s eh n z ax
+vicenza v ih s eh n z ax
+victor v ih k t er
+vien v iy n
+vienna v iy eh n ah
+villach f ih l aa k
+villach v ih l ax k
+viney v ih n iy
+viney v ay n iy
+viscinity OOV_WORD
+visibility v ih z ah b ih l ih t iy
+vista v ih s t ah
+visual v ih zh ah w ah l
+viva v iy v ah
+vizz v ix z
+vocus v ow k ax s
+volgadnepr v ow l g ae d n eh p r
+vor v iy ow aa r
+vueling v w eh l ix ng
+wagga w ah g ax
+wagga w ae g ax
+wagram v aa g r aa m
+wagram w ae g r ax m
+wald v aa l t
+walda v aa l d aa r
+walda w ao l d ax
+walda v aa l d ax
+walde v aa l d ax
+walde w ao l d
+walking w ao k ih ng
+wanted w aa n t ah d
+wanted w ao n t ih d
+wanted w ao n ih d
+warburg r aa r ax p ao r g
+warhog w aa r hh ax g
+warschau w ao r sh hh aw
+warszawa w ao r z aa w ax
+warthog w ao r t dh ax g
+was w aa z
+was w ah z
+was w ah z
+was w ao z
+wasn't w aa z ah n t
+wasn't w ah z ah n t
+waxen w ae k s eh n
+way w ey
+waypoint w ey p oy n t
+waypoints w ey p oy n t z
+we w iy
+we're w iy r
+we're w ih r
+we're w er
+weather w eh dh er
+weekend w iy k eh n d
+weekend w iy k ih n d
+weeze w iy z
+welcome w eh l k ah m
+welcomeair w eh l k ax m ei r
+well w eh l
+wemar v iy m aa r
+wemar w iy m aa r
+were w er
+were w er
+werkstaittfuge w er k s t ax t f y jh
+werra v eh r ax
+werra w eh r ax
+wesel v iy z axr l
+weser v iy z axr
+west w eh s t
+westbird w eh s t b er d
+westerland v eh s t axr l aa n d
+westerland w eh s t axr l ae n d
+wezel v iy z axr l
+what w ah t
+what hh w ah t
+what's w ah t s
+what's hh w ah t s
+when w eh n
+when hh w eh n
+when w ih n
+when hh w ih n
+where w eh r
+where hh w eh r
+wherever w eh r eh v er
+wherever hh w eh r eh v er
+whether w eh dh er
+whether hh w eh dh er
+which w ih ch
+which hh w ih ch
+whiskey w ih s k iy
+whiskey hh w ih s k iy
+whitestar OOV_WORD
+who hh uw
+who's hh uw z
+whoops w uw p s
+whoops hh w uw p s
+whose hh uw z
+wickede v ih k ix dx ax
+wiederhoren OOV_WORD
+wiesbaden v iy s b aa d ax n
+wiesel w eh z eh l
+wiesel w iy s eh l
+wilisau v ih l ix s aw
+wilischau v ih l ix sh aw
+will w ih l
+will w ah l
+willisau v ih l ix s aw
+willisau w ih l ix s aw
+wind w ay n d
+wind w ih n d
+winds w ih n d z
+winds w ay n d z
+wing w ih ng
+wings w ih ng z
+witch w ix ch
+witch w ih ch
+with w ih dh
+with w ih th
+with w ih th
+with w ih dh
+within w ih dh ih n
+within w ih th ih n
+wittmund v ih t m uh n d
+wittmund w ih t m ax n d
+wizz w ih z
+wizzair v ix z ei r
+wizzard w ih z axr d
+wombat w uh m b ae t
+work w er k
+world w er l d
+worth w er th
+would w uh d
+wrong r ao ng
+wuerzburg v uh r t s b uh r g
+wuerzburg v uh r t s b ao r g
+wuerzburg v uh r t s b er g
+wunstorf v uh n s t ao r f
+wurzburg v uh r t s b uh r g
+wurzburg v uh r t s b ao r g
+wurzburg v uh r t s b er g
+wyane w ey n
+wypper v ih p axr
+wypper w ih p axr
+xanim eh k z aa n ix m
+xater ix k s aa dx axr
+xater z ey dx axr
+xebix z iy b ix k s
+xebix k s ei b ix k s
+xerum ix k s eh r ax m
+xerum z eh r ax m
+xevix z iy v ix k s
+xevix k s ei v ix k s
+xevix ix k s ey v ix s
+xray OOV_WORD
+yankee y ae ng k iy
+yeah y ae
+yellow y eh l ow
+yes y eh s
+yesen y iy z ax n
+yesen y eh s ax n
+yet y eh t
+yoknz y ow k ih n z
+you y uw
+you're y uh r
+you're y uw r
+you've y uw v
+your y ao r
+your y uh r
+zagreb s aa g r eh b
+zagreb z ae g r eh b
+zagreb z aa g r eh b
+zero z ih r ow
+zero z iy r ow
+zhen z ax n
+zhongfei z oh g f ey
+zulu z uw l uw
+zurich z uh r ih k
+zurich z er ix k
+zweibrucken z v ay b r uh k ax n
+zweibrucken z v ay b r ah k eh n
+zweibruecken z v ay b r uh k ax n
+zweibruecken z v ay b r ah k eh n
