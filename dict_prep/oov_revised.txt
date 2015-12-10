@@ -4,59 +4,64 @@ ahm aa m
 airals eh r ah l z
 airtours eh r t ao r z
 albix aa l b ih k s
-aosta aa ow s t aa
-arbos 
-arrivederci ax r iy v ax d eh r ch iy
-atped 
+aosta aa ow s t ax
+arbos aa r b ah s
+arrivederci aa r iy v ix d eh r ch iy
+atped aa t p eh d
 auf aw f
 bafair b aa f ey r
 beeline b iy l ay n
 belstar b eh l s t aa r
-bilsa b ih l s ah
-biram 
+bilsa b ih l s ax
+biram b ay r aa m
+biram b iy r am
 bluefin b l uw f ih n
-breman 
-britania b r ih t aa n y ah
+breman b r eh m aa n
+britania b r ih t aa n y ax
 buongiorno b ow n jh ao r n ow
 buongiorno b w ow n jh ao r n ow
 canne k aa n ey
-danke d aa ng k ah
-denta 
-dindelsbuehl
-dinklesberg
-dosel
-edosa
-ersam
-fiver f ai v axr
+danke d aa ng k ax
+denta d eh n t ax
+dindelsbuehl d ix ng k ax l s b uw l
+dinklesberg d ix ng k ax l s b uw l
+dosel d ow z ax l
+edosa aa d ow z ax 
+ersam eh r s aa m
+fiver f ay v axr
 freq f r iy k
-fusse f uw s ah
-gambi 
-gesto
+fusse f uw s ax
+gambi g aa m b iy
+gesto g eh s t ow
 gibair jh iy b ey r
 gotil g ow t ih l
 guten g uw t eh n
 hallo hh aa l ow
 hejda hh ey d ow
-hm hh m
-ive ai v
-jetaviation jh eh t ei v iy ei sh ah n
+hm hh ax m
+ive ay v
+jetaviation jh eh t ey v iy ey sh ax n
 jetcom jh et t k aa m
-jordania 
+jordania jh ao r d ey n iy ax
 juliett jh uw l iy eh t
 kamas k aa m ax s
-kasat 
-kestrel
-klm k ei eh l eh m
-komep 
-koseb
-kugul
-laaga
-laklo
-lanas
+kasat k aa s aa t
+kestrel k eh s t r ax l
+k.l.m. k ey eh l eh m
+klm k ey eh l eh m
+komep k ow m eh p
+koseb k ow z eh b
+koseb k ow s eh b
+kugul k uw g ax l
+laaga l aa g ax
+laklo l aa k l ow
+lanas l aa n ax s
 larvi l aa r v iy
-lasme 
-leniz
-localizer l ow k ax l ai z axr
+lasme l aa s m iy
+lasme l ae z m iy
+leniz l ih n s
+leniz l ih n z
+localizer l ow k ax l ay z axr
 lufty l uh f t iy
 luha l uw hh ax
 masp m ae s p
@@ -65,37 +70,52 @@ meridiana m ax r ih d iy aa n ax
 munchen m uw n ch eh n
 oclock ow k l aa k
 odina ow d iy n ax
-odomu 
+odomu ow d ow m ow
 ohh ow
 okaydoke ow k ey d ow k
-olpik 
+olpik ow l p ix k s
 passeiry p aa s eh r iy
-pirol 
+pirol p ih r ax l
 resia r ey z iy ax
-rheine 
-rodno
-rodus
-rogbo
-rolampont
+rheine r ay n ax 
+rodno r ow d n ow
+rodus r ow d ax s
+rogbo r ow g b ow
+rolampont r ow l aa m p ow
 saronno s aa r ow n ow
 sata s aa t aa
-schonen 
-skyfox s k ai f aa x
+schonen sh uw n ax n
+skyfox s k ay f aa k s
 sobelair s ow b eh l ey r
 spair s p ey r
 sunwing s ah n w ih ng
 tcshuss sh uh s
-topso 
-topswiss
+topso t aa p s ow
+topswiss t aa p s w ih s
 translift t r ae n z l ih f t
 transwede t r ae n z s w iy d
-tschu 
-tschuss
-tubri
+tschu ch ah
+tschuss ch uw s
+tschuss sh uw s
+tubri t uw b r iy
 tunisair t uw n ih s ey r
-ubaga 
+ubaga uw b aa g ax
 vfr v iy eh f aa r
-vicinity
-whitestar w ai t s t aa r
-wiederhoren 
+v.f.r. v iy eh f aa r
+viscinity v ax s ih n ax t iy
+whitestar w ay t s t aa r
+wiederhoren w iy d axr hh ao r n
 xray eh k s r ey
+b.a. b iy ey
+c.v.s.m. s iy v iy eh s eh m
+i.f. ay eh f
+i.f.o. ay eh f ow
+k.l. k ey eh l
+l. eh l
+l.t.u. eh l t iy y uw
+p. p iy 
+p.s.a. p iy eh s ey
+r.v.s.m. aa r v iy eh s eh m
+t.w.a. t iy d ah b ax l y uw ey
+u.s. y uw eh s
+u.s.a. y uw eh s ey
