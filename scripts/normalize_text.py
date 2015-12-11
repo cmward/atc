@@ -29,3 +29,17 @@ def normalize_atcosim(line, word_map):
 # Does little at the moment.
 def normalize_ufa(line):
     return line.lower()
+
+# Removes markup, making the following transformations:
+#   ((word)) >> <unk>
+#   #word# >> word
+#   [environment noise] >> <unk>
+#   {human noise} >> <unk>
+#   @proper_noun >> proper_noun
+#   +word+ >> word 
+#   *made-up word* >> made-up word
+#   wo- >> <unk>
+def normalize_broadcast(line):
+    norm_line = re.sub('@|#|\*|\.', '', line)
+    norm_line = re.sub('( -\w*)|(\w*- )|(\+.*?\+)|(\{.*?\})|(\[.*?\])|(\(\(.*?\)\))', ' <unk> ', norm_line)
+    return " ".join(norm_line.split())
