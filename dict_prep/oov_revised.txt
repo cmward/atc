@@ -6,7 +6,7 @@ airtours eh r t ao r z
 albix aa l b ih k s
 aosta aa ow s t ax
 arbos aa r b ah s
-arrivederci aa r iy v ix d eh r ch iy
+arrivederci aa r iy v eh d eh r ch iy
 atped aa t p eh d
 auf aw f
 bafair b aa f ey r
@@ -14,7 +14,7 @@ beeline b iy l ay n
 belstar b eh l s t aa r
 bilsa b ih l s ax
 biram b ay r aa m
-biram b iy r am
+biram b iy r aa m
 bluefin b l uw f ih n
 breman b r eh m aa n
 britania b r ih t aa n y ax
@@ -41,7 +41,7 @@ hejda hh ey d ow
 hm hh ax m
 ive ay v
 jetaviation jh eh t ey v iy ey sh ax n
-jetcom jh et t k aa m
+jetcom jh eh t t k aa m
 jordania jh ao r d ey n iy ax
 juliett jh uw l iy eh t
 kamas k aa m ax s
@@ -52,7 +52,7 @@ klm k ey eh l eh m
 komep k ow m eh p
 koseb k ow z eh b
 koseb k ow s eh b
-kugul k uw g ax l
+kugul k uw g uw l
 laaga l aa g ax
 laklo l aa k l ow
 lanas l aa n ax s
@@ -84,7 +84,7 @@ rogbo r ow g b ow
 rolampont r ow l aa m p ow
 saronno s aa r ow n ow
 sata s aa t aa
-schonen sh uw n ax n
+schonen sh uw n eh n
 skyfox s k ay f aa k s
 sobelair s ow b eh l ey r
 spair s p ey r
@@ -93,7 +93,7 @@ tcshuss sh uh s
 topso t aa p s ow
 topswiss t aa p s w ih s
 translift t r ae n z l ih f t
-transwede t r ae n z s w iy d
+transwede t r ae n s w iy d
 tschu ch ah
 tschuss ch uw s
 tschuss sh uw s
