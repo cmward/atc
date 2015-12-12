@@ -56,18 +56,19 @@ def main(broadcast_dir, broadcast_transcripts, data_path):
                     info = re.search('segment s_time=([\d.]*) e_time=([\d.]*) speaker="([\.\'\-\w]*)"', low_line).groups()
                 elif low_line.startswith("</segment"):
                     start, end, speaker = info[0], info[1], info[2]
-                    utt_id = "-".join([speaker, filename, str(utt_counter)])
-                    text.write(make_text_line(utt_id, normalize_broadcast(utt)))
-                    utt2spk.write(make_utt2spk_line(utt_id, speaker))
-                    segments.write(make_segments_line(utt_id, filename, start, end))
-                    reco.write(make_reco_line(filename))
-                    sph_pipe = "sph2pipe_v2.5/sph2pipe -f wav -p -c 1"
-                    if (filename + ".sph") in sph_dir1:
-                        wavscp.write(make_wavscp_line(filename, sph_dir1))
-                    elif (filename + ".sph") in sph_dir2:
-                        wavscp.write(make_wavscp_line(filename, sph_dir1))
-                    else:
-                        wavscp.write(make_wavscp_line(filename, sph_dir1))
+                    if float(end) > float(start):
+                        utt_id = "-".join([speaker, filename, str(utt_counter)])
+                        text.write(make_text_line(utt_id, normalize_broadcast(utt)))
+                        utt2spk.write(make_utt2spk_line(utt_id, speaker))
+                        segments.write(make_segments_line(utt_id, filename, start, end))
+                        reco.write(make_reco_line(filename))
+                        sph_pipe = "sph2pipe_v2.5/sph2pipe -f wav -p -c 1"
+                        if (filename + ".sph") in os.listdir(sph_dir1):
+                            wavscp.write(make_wavscp_line(filename, sph_dir1))
+                        elif (filename + ".sph") in os.listdir(sph_dir2):
+                            wavscp.write(make_wavscp_line(filename, sph_dir2))
+                        else:
+                            wavscp.write(make_wavscp_line(filename, sph_dir3))
                     utt = ""
                     utt_counter += 1
                 elif not low_line.startswith("<"):
