@@ -6,16 +6,16 @@ from os.path import join as pjoin
 """
 
 Usage:
-    python atc_wavscp.py <UFA-audio-dir> <ATCOSIM-dir> <data-partitioning-dir> <data_path>
+    python atc_wavscp.py <UFA-audio-dir> <ATCOSIM-audio-dir> <data-partitioning-dir> <data_path>
 
 """
 
 def make_wavscp_line(utt_id, wav_path):
     return " ".join([utt_id, wav_path + "\n"])
 
-def add_atcosim_lines(atcosim_dir, speakers, wavscp_file):
+def add_atcosim_lines(atcosim_audio_dir, speakers, wavscp_file):
     for speaker in speakers:
-        speaker_dir = pjoin(atcosim_dir, "WAVdata", speaker)
+        speaker_dir = pjoin(atcosim_audio_dir, speaker)
         subdirs = os.listdir(speaker_dir)
         for sub in subdirs:
             wav_files = os.listdir(pjoin(speaker_dir, sub))
@@ -32,7 +32,7 @@ def add_ufa_lines(ufa_audio_dir, speakers, wavscp_file):
             utt_id = wav[:-4]
             wavscp_file.write(make_wavscp_line(utt_id, pjoin(speaker_dir, wav)))
 
-def main(ufa_audio_dir, atcosim_dir, partitions, data_path):
+def main(ufa_audio_dir, atcosim_audio_dir, partitions, data_path):
     atcosim_train_spkrs = ["sm1", "sm2", "sm3", "sm4"]
     ufa_train_spkrs = [spkr.strip() for spkr in open(pjoin(partitions, "ufa_train_speakers"))]
     ufa_test_spkrs = [spkr.strip() for spkr in open(pjoin(partitions, "ufa_test_speakers"))]
@@ -43,7 +43,7 @@ def main(ufa_audio_dir, atcosim_dir, partitions, data_path):
     train_wavscp = open(pjoin(train_path, "wav.scp"), "w")
     test_wavscp = open(pjoin(test_path, "wav.scp"), "w")
 
-    add_atcosim_lines(atcosim_dir, atcosim_train_spkrs, train_wavscp)
+    add_atcosim_lines(atcosim_audio_dir, atcosim_train_spkrs, train_wavscp)
     add_ufa_lines(ufa_audio_dir, ufa_train_spkrs, train_wavscp)
     add_ufa_lines(ufa_audio_dir, ufa_test_spkrs, test_wavscp)
 

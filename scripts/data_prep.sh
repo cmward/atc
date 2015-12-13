@@ -3,7 +3,7 @@
 ## To be run from the project directory.
 
 # Usage:
-#	sh data_prep <ufa-dir> <ufa-audio-dir> <atcosim-dir> /
+#	sh data_prep <ufa-dir> <ufa-audio-dir> <atcosim-dir> <atcosim-audio-dir> /
 #			<broadcast-dir> <broadcast-transcript-dir> <partition-path> <data-path>
 # For example:
 #	sh data_prep.sh corpora/UFA_DE corpora/UFA_DE/audio_fixed corpora/ATCOSIM /
@@ -16,13 +16,14 @@ export LANG=C; export LC_ALL=C
 ufa=$1
 ufa_audio=$2
 atcosim=$3
-broadcast=$4
-broadcast_trans=$5
-partitions=$6
-data_path=$7
+atcosim_audio=$4
+broadcast=$5
+broadcast_trans=$6
+partitions=$7
+data_path=$8
 
 python scripts/atc_text.py $ufa $atcosim $data_path
-python scripts/atc_wavscp.py $ufa_audio $atcosim $partitions $data_path
+python scripts/atc_wavscp.py $ufa_audio $atcosim_audio $partitions $data_path
 python scripts/atc_segments_and_reco.py $data_path
 python scripts/atc_utt2spk.py $ufa $atcosim $data_path
 python scripts/broadcast_kaldi_files.py $broadcast $broadcast_trans $data_path
