@@ -9,12 +9,6 @@ using the UFA grammar.
 
 """
 
-def read_ebnf(ebnf_file):
-    """ Read in ebnf grammar and create pyparsing grammar.
-    """
-    p = ebnf.parse(ebnf_file)
-    return p
-
 class Grammar(object):
     def __init__(self, ebnf_file):
         self.parser = ebnf.parse(ebnf_file)
@@ -23,8 +17,14 @@ class Grammar(object):
         output = parser['atc'].searchString(string)
         return output
 
-def nbest(lat_dir):
-    """ Get the n-best list from the lattices produced by kaldi
+def nbest(n, lat_dir):
+    """ Get the n-best list from the lattices produced by kaldi.
+    Returns the top n hypotheses and their scores. 
     """
     pass
 
+def rescore(nbest, grammar, penalty=0.01):
+    """nbest is a list of (hypothesis, score) pairs."""
+    for hyp, score in nbest:
+        parse = grammar.scan(hyp)
+        

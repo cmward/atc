@@ -53,6 +53,7 @@ ebnfComment = ( "(*" +
 syntax = OneOrMore(syntax_rule)
 syntax.ignore(ebnfComment)
 
+strings = []
 
 def do_integer(str, loc, toks):
     return int(toks[0])
@@ -61,8 +62,8 @@ def do_meta_identifier(str, loc, toks):
     if toks[0] in symbol_table:
         return symbol_table[toks[0]]
     else:
+        strings.append(toks)
         forward_count.value += 1
-        print str, "#############forward count +1###############"
         symbol_table[toks[0]] = Forward()
         return symbol_table[toks[0]]
 
@@ -119,6 +120,7 @@ def do_syntax_rule(str, loc, toks):
     # meta_identifier = definitions_list ;
     assert toks[0].expr is None, "Duplicate definition"
     forward_count.value -= 1
+    strings.append(toks)
     toks[0] << toks[1]
     return [ toks[0] ]
 
@@ -145,9 +147,9 @@ def parse(ebnf, given_table={}):
     symbol_table.update(given_table)
     forward_count.value = 0
     table = syntax.parseFile(ebnf)[0]
-#    assert forward_count.value == 0, "Missing definition"
+    assert forward_count.value == 0, "Missing definition"
     for name in table:
         expr = table[name]
         expr.setName(name)
-        expr.setDebug()
-    return table
+        #expr.setDebug()
+    return table, strings
