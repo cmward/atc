@@ -44,14 +44,20 @@ cat $atc_path/utt2spk $broadcast_path/utt2spk | sort -u > $train_path/utt2spk
 test_path=$data_path/test
 
 for f in text segments wav.scp reco2file_and_channel utt2spk; do
+  sort $atc_path/$f -o $atc_path/$f
+  sort $broadcast_path/$f -o $broadcast_path/$f
   sort $test_path/$f -o $test_path/$f
 done
 
 # Generate the spk2utt files.
+utils/utt2spk_to_spk2utt.pl $atc_path/utt2spk > $atc_path/spk2utt
+utils/utt2spk_to_spk2utt.pl $broadcast_path/utt2spk > $broadcast_path/spk2utt
 utils/utt2spk_to_spk2utt.pl $train_path/utt2spk > $train_path/spk2utt
 utils/utt2spk_to_spk2utt.pl $test_path/utt2spk > $test_path/spk2utt
 
 # Ensures segments are present in all files.
+bash utils/fix_data_dir.sh $atc_path
+bash utils/fix_data_dir.sh $broadcast_path
 bash utils/fix_data_dir.sh $train_path
 bash utils/fix_data_dir.sh $test_path
 

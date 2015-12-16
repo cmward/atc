@@ -13,6 +13,7 @@ $KALDI/src/gmmbin/:\
 $KALDI/src/featbin/:\
 $KALDI/src/lm/:\
 $KALDI/src/sgmmbin/:\
+$KALDI/src/sgmm2bin/:\
 $KALDI/src/fgmmbin/:\
 $KALDI/src/latbin/:\
 $KALDI:\
