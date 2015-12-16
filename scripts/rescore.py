@@ -92,7 +92,7 @@ def rescore(grammar, abs_pen=None):
 
 def write_new_best():
     #score_files = glob.glob('*.nb.rescored.txt')
-    score_files = ['1.nb.rescored.txt', '10.nb.rescored.txt', '11.nb.rescored.txt']
+    score_files = glob.glob('*.nb.rescored.txt')
     hyps = glob.glob('*.nb.txt')
     score_dict = defaultdict(list)
     for score_file in score_files:
