@@ -41,7 +41,8 @@ data_args = ' '.join(['sh scripts/data_prep.sh', UFA, UFA_AUDIO, ATCOSIM, ATCOSI
 call(data_args, shell=True)
 
 ## Dictionary preparation.
-# No scripts right now.
+# Dictionary was largely prepared manually and the relevant files are
+# located in data/local/dict.
 
 ## Language Preparation
 call('bash utils/prepare_lang.sh data/local/dict "<unk>" data/local/lang data/lang', shell=True)
