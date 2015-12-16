@@ -139,7 +139,7 @@ for name in all_names:
     action = vars()['do_' + name]
     expr.setName(name)
     expr.setParseAction(action)
-    expr.setDebug()
+    #expr.setDebug()
 
 
 def parse(ebnf, given_table={}):
@@ -152,4 +152,4 @@ def parse(ebnf, given_table={}):
         expr = table[name]
         expr.setName(name)
         #expr.setDebug()
-    return table, strings
+    return table
